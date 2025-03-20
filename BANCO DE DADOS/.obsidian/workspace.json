@@ -6,6 +6,7 @@
       {
         "id": "37c1956a6b33ece5",
         "type": "tabs",
+        "dimension": 62.29116945107399,
         "children": [
           {
             "id": "ff58a7b02bb19749",
@@ -24,11 +25,12 @@
         ]
       },
       {
-        "id": "e879714189b73f9c",
+        "id": "43f8b6b782f34ccd",
         "type": "tabs",
+        "dimension": 37.70883054892602,
         "children": [
           {
-            "id": "8afbea0e05144e0a",
+            "id": "dbabca6c723b546f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -185,13 +187,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d2f0b36921ada6e0",
+  "active": "dbabca6c723b546f",
   "lastOpenFiles": [
+    "AV1/AV1.md",
     "AV2",
     "AV1",
     "AV2/AV2.md",
     "Assuntos.md",
-    "AV1/AV1.md",
     "Bem-vindo.md"
   ]
 }
