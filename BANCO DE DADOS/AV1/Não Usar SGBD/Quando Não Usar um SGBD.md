@@ -1,0 +1,12 @@
+---
+node_size: "5"
+---
+- Existem algumas situações em que um SGBD pode envolver custos adicionais desnecessários:
+	- Alto investimento inicial em hardware, software e treinamento
+	- Generalidade que um SGBD oferece para a definição e processamento de dados
+	- Esforço adicional para oferecer funções de segurança, controle de ocorrência, recuperação e integridade
+- Portanto, pode ser mais desejável usar arquivos comuns sob as seguintes circunstâncias:
+	- Aplicações de banco de dados simples e bem definidas, onde não se esperam muitas mudanças
+	- Requisitos rigorosos, em tempo real, para alguns programas de aplicação que não podem ser atendidos em decorrência de sobrecarga de operações em um SGBD
+	- Sistemas embarcados com capacidade de armazenamento limitada
+	- Não há acesso de múltiplos usuários aos dados

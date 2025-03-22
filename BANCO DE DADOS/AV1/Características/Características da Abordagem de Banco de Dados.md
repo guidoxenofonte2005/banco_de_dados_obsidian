@@ -34,3 +34,6 @@ node_size: "5"
 ## [[Processamento de Transação Multiusuário]]
 - Uma transação é um programa em execução ou processo que inclui um ou mais acessos ao banco de dados, como a leitura ou atualização dos registros
 - Cada transação deve executar um acesso ao banco de dados, sendo logicamente correta para ser executada em sua totalidade, sem interferência de outras transações
+- Possui as seguintes propriedades:
+	- **Isolamento** - Garante que cada transação pareça executar isoladamente das outras transações, embora várias possam estar acontecendo simultaneamente
+	- **Atomicidade** - Garante que todas as operações em uma transação sejam executadas ou nenhum seja
