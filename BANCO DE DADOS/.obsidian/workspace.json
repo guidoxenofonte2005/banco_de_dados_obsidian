@@ -4,16 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "807bac3cbf804d77",
-        "type": "split",
-        "dimension": 39.07766990291262,
+        "id": "37c1956a6b33ece5",
+        "type": "tabs",
+        "dimension": 62.95045045045045,
         "children": [
           {
-            "id": "61802f6df0908ab2",
+            "id": "4db9b4d02d1d2ccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AV1/Classificação/Classificação dos SGBDs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classificação dos SGBDs"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4db7126745b3710a",
+        "type": "split",
+        "dimension": 37.049549549549546,
+        "children": [
+          {
+            "id": "18607260d01a01b1",
             "type": "tabs",
             "children": [
               {
-                "id": "261ffbc9498487f1",
+                "id": "ddad248fda283ec9",
                 "type": "leaf",
                 "state": {
                   "type": "graph",
@@ -25,11 +46,11 @@
             ]
           },
           {
-            "id": "90625b4be1ae737c",
+            "id": "781c5c76016e55a5",
             "type": "tabs",
             "children": [
               {
-                "id": "9acfb115aea94edc",
+                "id": "3f9b183ac81f17ce",
                 "type": "leaf",
                 "state": {
                   "type": "calendar",
@@ -38,60 +59,10 @@
                   "title": "Calendar"
                 }
               }
-            ],
-            "stacked": true
+            ]
           }
         ],
         "direction": "horizontal"
-      },
-      {
-        "id": "37c1956a6b33ece5",
-        "type": "tabs",
-        "dimension": 60.92233009708738,
-        "children": [
-          {
-            "id": "948c80eef3723dee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AV1/Modelo de dados/Modelos de dados, Esquemas e Instâncias.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modelos de dados, Esquemas e Instâncias"
-            }
-          },
-          {
-            "id": "aeb8d9f1a6cf2014",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AV1/Modelo de dados/Modelos de dados, Esquemas e Instâncias.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modelos de dados, Esquemas e Instâncias"
-            }
-          },
-          {
-            "id": "ddad248fda283ec9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AV1/Atores/Atores em Cena e Bastidores.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Atores em Cena e Bastidores"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AV1/Modelo de dados/Modelos de dados, Esquemas e Instâncias.md",
+                "file": "AV1/Classificação/Classificação dos SGBDs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Modelos de dados, Esquemas e Instâncias"
+              "title": "Links inversos para Classificação dos SGBDs"
             }
           },
           {
@@ -213,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AV1/Modelo de dados/Modelos de dados, Esquemas e Instâncias.md",
+                "file": "AV1/Classificação/Classificação dos SGBDs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Modelos de dados, Esquemas e Instâncias"
+              "title": "Sumário de Classificação dos SGBDs"
             }
           }
         ],
@@ -227,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
+    "width": 416.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -241,43 +212,44 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "948c80eef3723dee",
+  "active": "4db9b4d02d1d2ccc",
   "lastOpenFiles": [
     "AV1/AV1.md",
-    "AV1/Vantagens SGBD/Vantagens da Abordagem de SGBD.md",
-    "AV1/Atores/Atores em Cena e Bastidores.md",
-    "AV1/Modelo de dados/Modelos de dados, Esquemas e Instâncias.md",
-    "AV1/Modelo de dados/Categorias de Modelos/Categorias de Modelos de Dados.md",
-    "AV1/Modelo de dados/Categorias de Modelos/Representativos.md",
+    "AV1/Arquiteturas Centralizadas/Arquiteturas Centralizadas e Cliente Servidor.md",
+    "AV1/Ambiente/Ambiente do Sistema de Banco de Dados.md",
+    "AV1/Ambiente/Utilitários do Sistema.md",
+    "AV1/Ambiente/Ferramentas, Ambientes de Aplicação e Facilidades de Comunicações.md",
+    "AV1/Ambiente/Módulos Componentes do SGBD.md",
+    "AV1/Linguagens/Linguagens e Interfaces.md",
+    "Assuntos.md",
+    "AV1/Linguagens/Interfaces/DBA.md",
+    "AV1/Linguagens/Interfaces/Interfaces do SGBD.md",
+    "AV1/Linguagens/Interfaces/Usuários Paramétricos.md",
+    "AV1/Linguagens/Interfaces/Voz.md",
+    "AV1/Linguagens/Interfaces/Pesquisa baseada em Palavra-Chave.md",
+    "AV1/Linguagens/Interfaces/Linguagem Natural.md",
+    "AV1/Linguagens/Interfaces/GUI.md",
+    "AV1/Linguagens/Interfaces/Formulário.md",
+    "AV1/Linguagens/Interfaces/Mobile.md",
+    "AV1/Linguagens/Interfaces/Menu.md",
+    "AV1/Linguagens/Linguagens/DDL.md",
+    "AV1/Linguagens/Linguagens/Linguagens do SGBD.md",
+    "AV1/Linguagens/Linguagens/DML.md",
+    "AV1/Linguagens/Linguagens/VDL.md",
+    "AV1/Linguagens/Linguagens/SDL.md",
+    "AV1/Linguagens/Interfaces",
+    "AV1/Linguagens/Linguagens",
+    "AV1/Arquitetura de Três Esquemas/Arquitetura de Três Esquemas e Independência de Dados.md",
+    "AV1/Arquitetura de Três Esquemas/Independência/Independência de Dados.md",
+    "AV1/Arquitetura de Três Esquemas/Independência/Independência Física.md",
+    "AV1/Arquitetura de Três Esquemas/Independência",
+    "AV1/Arquitetura de Três Esquemas/Três Esquemas",
+    "AV1/Modelo de dados/Esquemas",
     "AV1/Modelo de dados/Categorias de Modelos",
-    "AV1/Modelo de dados/Categorias de Modelos/Autodescritivos.md",
-    "AV1/Modelo de dados/Categorias de Modelos/Hierárquicos.md",
-    "AV1/Modelo de dados/Categorias de Modelos/Rede.md",
-    "AV1/Modelo de dados/Categorias de Modelos/Físicos.md",
-    "AV1/Modelo de dados/Categorias de Modelos/Dados de Objeto.md",
-    "AV1/Modelo de dados/Categorias de Modelos/Baseados em Registro.md",
-    "AV1/Modelo de dados/Categorias de Modelos/Relacionais.md",
-    "AV1/Atores/Bastidores/Bastidores.md",
-    "AV1/Atores/Atores/Atores em Cena.md",
-    "AV1/Modelo de dados/Categorias de Modelos/Baixo Nível.md",
-    "AV1/Modelo de dados/Categorias de Modelos/Alto Nível.md",
-    "Sem título.md",
-    "AV1/Características/Características da Abordagem de Banco de Dados.md",
-    "AV1/Definições/Definições Básicas.md",
-    "AV1/Não Usar SGBD/Quando Não Usar um SGBD.md",
-    "AV1/Atores/Bastidores/Operadores e Manutenção.md",
-    "AV1/Atores/Bastidores/Desenvolvedores de Ferramentas.md",
-    "AV1/Atores/Bastidores/Projetistas e Implementadores de SGBD.md",
     "AV1/Atores/Atores",
     "AV1/Atores/Bastidores",
-    "AV1/Atores/Atores/Analistas de Sistemas e Programadores de Aplicações.md",
     "Sem título.canvas",
     "AV1/Classificação",
-    "AV1/Arquiteturas Centralizadas",
-    "AV1/Ambiente",
-    "AV1/Linguagens",
-    "AV1/Arquitetura de Três Esquemas",
-    "AV1/Modelo de dados",
-    "Arquiteturas Centralizadas e Cliente"
+    "AV1/Arquiteturas Centralizadas"
   ]
 }

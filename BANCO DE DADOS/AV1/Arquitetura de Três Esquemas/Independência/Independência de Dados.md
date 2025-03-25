@@ -1,0 +1,2 @@
+[[Independência Lógica]]
+[[Independência Física]]

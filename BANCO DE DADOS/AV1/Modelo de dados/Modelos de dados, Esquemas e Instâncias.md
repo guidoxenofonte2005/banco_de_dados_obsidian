@@ -39,6 +39,30 @@ node_size: "5"
 - Incluem _XML_, além de muitos _armazenamentos de chave-valor_ e _sistemas NOSQL_
 ### Modelos Legados
 #### Modelos de Rede
-- 
+- Representa dados como *tipos de registro*, além de representar um tipo limitado de relacionamento *1:N* chamado **tipo de conjunto**
+- Um relacionamento 1:N, ou *um para muitos*, relaciona uma instância de um registro a muitas instâncias de registros usando algum mecanismo de ligação com ponteiros
 #### Modelos Hierárquicos
-- 
+- Representa os dados como *estruturas hierárquicas* em forma de árvore
+- Cada hierarquia simboliza uma série de registros relacionados
+- Não existe uma linguagem padrão para esse modelo
+## [[Esquemas, Instâncias e Estados]]
+#### Esquemas
+- A descrição de um banco de dados é chamada de **esquema do banco de dados**
+- Este esquema é especificado durante o projeto e não se espera que mude com frequência
+- A representação de um esquema é chamada de *diagrama de esquema*
+- Um diagrama de esquema representa apenas alguns aspectos de um esquema, como os nomes de tipos de registro e itens de dados, e algumas restrições
+- Cada objeto no esquema é chamado de *construtor do esquema*
+- Quando um novo banco de dados é definido, o esquema é especificado *apenas para o SGBD*
+- O SGBD armazena as descrições das construções e restrições do esquema *(metadados)* no catálogo do SGBD, de modo que o software do SGDB possa recorrer ao esquema sempre que precisar
+- O esquema é, por vezes, chamado de **intensão**
+#### Estados e Instâncias
+- Os dados reais armazenados em um banco de dados podem mudar com bastante frequência
+- Os dados no banco de dados em um determinado momento no tempo são chamados de **estado** ou *instante (snapshot) do banco de dados*
+- Também são chamados de conjunto atual de *ocorrências* ou **instâncias** do banco de dados
+- Muitos estados de banco de dados podem ser construídos para corresponder a um esquema em particular
+- Quando um novo banco de dados é criado, o estado correspondente é o *estado vazio*, que não possui dados
+- O *estado inicial* do banco de dados é obtido quando ele é **populado ou carregado** com os dados iniciais
+- Toda vez que uma operação de atualização é aplicada ao banco de dados, obtém-se um novo estado
+- Em qualquer ponto no tempo, o banco de dados possui um *estado atual*
+- O SGBD é parcialmente responsável por garantir que todo estado do banco de dados seja um **estado válido**
+- Um estado do banco de dados é chamado de **extensão do esquema**
