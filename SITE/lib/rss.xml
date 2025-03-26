@@ -1,34 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BANCO DE DADOS]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>BANCO DE DADOS</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 26 Mar 2025 00:55:47 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 26 Mar 2025 00:55:37 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Compilador da DDL]]></title><description><![CDATA[ 
- ]]></description><link>av1\ambiente\módulos\compilador-da-ddl.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Compilador da DDL.md</guid><pubDate>Tue, 25 Mar 2025 20:34:17 GMT</pubDate></item><item><title><![CDATA[Compilador de Consulta]]></title><description><![CDATA[ 
- ]]></description><link>av1\ambiente\módulos\compilador-de-consulta.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Compilador de Consulta.md</guid><pubDate>Tue, 25 Mar 2025 20:34:47 GMT</pubDate></item><item><title><![CDATA[Interface de Consulta Interativa]]></title><description><![CDATA[ 
- ]]></description><link>av1\ambiente\módulos\interface-de-consulta-interativa.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Interface de Consulta Interativa.md</guid><pubDate>Tue, 25 Mar 2025 20:34:24 GMT</pubDate></item><item><title><![CDATA[Módulo de Gerenciamento de Buffer]]></title><description><![CDATA[ 
- ]]></description><link>av1\ambiente\módulos\módulo-de-gerenciamento-de-buffer.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Módulo de Gerenciamento de Buffer.md</guid><pubDate>Tue, 25 Mar 2025 20:33:38 GMT</pubDate></item><item><title><![CDATA[Módulo Gerenciador de Dados Armazenados]]></title><description><![CDATA[ 
- ]]></description><link>av1\ambiente\módulos\módulo-gerenciador-de-dados-armazenados.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Módulo Gerenciador de Dados Armazenados.md</guid><pubDate>Tue, 25 Mar 2025 20:33:51 GMT</pubDate></item><item><title><![CDATA[Módulos Componentes do SGBD]]></title><description><![CDATA[ 
- <br><a data-href="Sistema Operacional" href="av1\ambiente\módulos\sistema-operacional.html" class="internal-link" target="_self" rel="noopener nofollow">Sistema Operacional</a><br>
-<a data-href="Módulo de Gerenciamento de Buffer" href="av1\ambiente\módulos\módulo-de-gerenciamento-de-buffer.html" class="internal-link" target="_self" rel="noopener nofollow">Módulo de Gerenciamento de Buffer</a><br>
-<a data-href="Módulo Gerenciador de Dados Armazenados" href="av1\ambiente\módulos\módulo-gerenciador-de-dados-armazenados.html" class="internal-link" target="_self" rel="noopener nofollow">Módulo Gerenciador de Dados Armazenados</a><br>
-<a data-href="Compilador da DDL" href="av1\ambiente\módulos\compilador-da-ddl.html" class="internal-link" target="_self" rel="noopener nofollow">Compilador da DDL</a><br>
-<a data-href="Interface de Consulta Interativa" href="av1\ambiente\módulos\interface-de-consulta-interativa.html" class="internal-link" target="_self" rel="noopener nofollow">Interface de Consulta Interativa</a><br>
-<a data-href="Compilador de Consulta" href="av1\ambiente\módulos\compilador-de-consulta.html" class="internal-link" target="_self" rel="noopener nofollow">Compilador de Consulta</a><br>
-<a data-href="Otimizador de Consulta" href="av1\ambiente\módulos\otimizador-de-consulta.html" class="internal-link" target="_self" rel="noopener nofollow">Otimizador de Consulta</a><br>
-<a data-href="Pré-Compilador" href="av1\ambiente\módulos\pré-compilador.html" class="internal-link" target="_self" rel="noopener nofollow">Pré-Compilador</a><br>
-<a data-href="Processador de BD em Tempo de Execução" href="av1\ambiente\módulos\processador-de-bd-em-tempo-de-execução.html" class="internal-link" target="_self" rel="noopener nofollow">Processador de BD em Tempo de Execução</a><br>
-<a data-href="Programa Cliente" href="av1\ambiente\módulos\programa-cliente.html" class="internal-link" target="_self" rel="noopener nofollow">Programa Cliente</a><br>
-<a data-href="Servidor de Aplicações" href="av1\ambiente\módulos\servidor-de-aplicações.html" class="internal-link" target="_self" rel="noopener nofollow">Servidor de Aplicações</a>]]></description><link>av1\ambiente\módulos\módulos-componentes-do-sgbd.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Módulos Componentes do SGBD.md</guid><pubDate>Tue, 25 Mar 2025 20:35:41 GMT</pubDate></item><item><title><![CDATA[Otimizador de Consulta]]></title><description><![CDATA[ 
- ]]></description><link>av1\ambiente\módulos\otimizador-de-consulta.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Otimizador de Consulta.md</guid><pubDate>Tue, 25 Mar 2025 20:35:04 GMT</pubDate></item><item><title><![CDATA[Pré-Compilador]]></title><description><![CDATA[ 
- ]]></description><link>av1\ambiente\módulos\pré-compilador.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Pré-Compilador.md</guid><pubDate>Tue, 25 Mar 2025 20:35:12 GMT</pubDate></item><item><title><![CDATA[Processador de BD em Tempo de Execução]]></title><description><![CDATA[ 
- ]]></description><link>av1\ambiente\módulos\processador-de-bd-em-tempo-de-execução.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Processador de BD em Tempo de Execução.md</guid><pubDate>Tue, 25 Mar 2025 20:35:29 GMT</pubDate></item><item><title><![CDATA[Programa Cliente]]></title><description><![CDATA[ 
- ]]></description><link>av1\ambiente\módulos\programa-cliente.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Programa Cliente.md</guid><pubDate>Tue, 25 Mar 2025 20:35:36 GMT</pubDate></item><item><title><![CDATA[Servidor de Aplicações]]></title><description><![CDATA[ 
- ]]></description><link>av1\ambiente\módulos\servidor-de-aplicações.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Servidor de Aplicações.md</guid><pubDate>Tue, 25 Mar 2025 20:35:43 GMT</pubDate></item><item><title><![CDATA[Sistema Operacional]]></title><description><![CDATA[ 
- ]]></description><link>av1\ambiente\módulos\sistema-operacional.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Sistema Operacional.md</guid><pubDate>Tue, 25 Mar 2025 20:33:18 GMT</pubDate></item><item><title><![CDATA[Backup]]></title><description><![CDATA[ 
- ]]></description><link>av1\ambiente\utilitários\backup.html</link><guid isPermaLink="false">AV1/Ambiente/Utilitários/Backup.md</guid><pubDate>Tue, 25 Mar 2025 20:44:04 GMT</pubDate></item><item><title><![CDATA[Carga]]></title><description><![CDATA[ 
- ]]></description><link>av1\ambiente\utilitários\carga.html</link><guid isPermaLink="false">AV1/Ambiente/Utilitários/Carga.md</guid><pubDate>Tue, 25 Mar 2025 20:44:01 GMT</pubDate></item><item><title><![CDATA[Monitoração de Desempenho]]></title><description><![CDATA[ 
- ]]></description><link>av1\ambiente\utilitários\monitoração-de-desempenho.html</link><guid isPermaLink="false">AV1/Ambiente/Utilitários/Monitoração de Desempenho.md</guid><pubDate>Tue, 25 Mar 2025 20:44:23 GMT</pubDate></item><item><title><![CDATA[Reorganização do Armazenamento]]></title><description><![CDATA[ 
- ]]></description><link>av1\ambiente\utilitários\reorganização-do-armazenamento.html</link><guid isPermaLink="false">AV1/Ambiente/Utilitários/Reorganização do Armazenamento.md</guid><pubDate>Tue, 25 Mar 2025 20:44:15 GMT</pubDate></item><item><title><![CDATA[Utilitários do Sistema]]></title><description><![CDATA[ 
- <br><a data-href="Carga" href="av1\ambiente\utilitários\carga.html" class="internal-link" target="_self" rel="noopener nofollow">Carga</a><br>
-<a data-href="Backup" href="av1\ambiente\utilitários\backup.html" class="internal-link" target="_self" rel="noopener nofollow">Backup</a><br>
-<a data-href="Reorganização do Armazenamento" href="av1\ambiente\utilitários\reorganização-do-armazenamento.html" class="internal-link" target="_self" rel="noopener nofollow">Reorganização do Armazenamento</a><br>
-<a data-href="Monitoração de Desempenho" href="av1\ambiente\utilitários\monitoração-de-desempenho.html" class="internal-link" target="_self" rel="noopener nofollow">Monitoração de Desempenho</a>]]></description><link>av1\ambiente\utilitários\utilitários-do-sistema.html</link><guid isPermaLink="false">AV1/Ambiente/Utilitários/Utilitários do Sistema.md</guid><pubDate>Tue, 25 Mar 2025 20:44:23 GMT</pubDate></item><item><title><![CDATA[Ambiente do Sistema de Banco de Dados]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BANCO DE DADOS]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>BANCO DE DADOS</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 26 Mar 2025 04:22:16 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 26 Mar 2025 04:21:58 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Ambiente do Sistema de Banco de Dados]]></title><description><![CDATA[ 
  <br><br>
 <br>O banco de dados e o catálogo do SGBD normalmente são armazenados em disco
 <br>O acesso ao disco é controlado, em especial, pelo sistema operacional (SO), que escalona a leitura/escrita em disco
@@ -89,11 +59,300 @@
 <br>É semelhante ao catálogo do SGBD, mas inclui uma variedade maior de informações e é acessado principalmente pelos usuários
 
 
-<br>Ambientes de Desenvolvimento de Aplicação oferecem um ambiente para desenvolver aplicações de banco de dados, 
-]]></description><link>av1\ambiente\ambiente-do-sistema-de-banco-de-dados.html</link><guid isPermaLink="false">AV1/Ambiente/Ambiente do Sistema de Banco de Dados.md</guid><pubDate>Tue, 25 Mar 2025 21:15:42 GMT</pubDate></item><item><title><![CDATA[Ferramentas, Ambientes de Aplicação e Facilidades de Comunicações]]></title><description><![CDATA[ 
- ]]></description><link>av1\ambiente\ferramentas,-ambientes-de-aplicação-e-facilidades-de-comunicações.html</link><guid isPermaLink="false">AV1/Ambiente/Ferramentas, Ambientes de Aplicação e Facilidades de Comunicações.md</guid><pubDate>Tue, 25 Mar 2025 04:29:25 GMT</pubDate></item><item><title><![CDATA[Independência de Dados]]></title><description><![CDATA[ 
+<br>Ambientes de Desenvolvimento de Aplicação oferecem um ambiente para desenvolver aplicações de banco de dados, incluindo estruturas que ajudam em muitas facetas dos sistemas, como projeto de banco de dados, desenvolvimento de GUI, consulta e atualização, etc.
+<br>O SGBD também precisa realizar a interface com o software de comunicações, responsável por permitir que os usuários em locais remotos do sistema de banco de dados acessem-no por meio de terminais de computador, estações de trabalho ou computadores pessoais
+<br>Muitos sistemas de banco de dados do mercado possuem pacotes de comunicação que trabalham com o SGBD. O nome dado ao sistema integrado é DB/DC
+]]></description><link>av1\ambiente\ambiente-do-sistema-de-banco-de-dados.html</link><guid isPermaLink="false">AV1/Ambiente/Ambiente do Sistema de Banco de Dados.md</guid><pubDate>Wed, 26 Mar 2025 02:24:24 GMT</pubDate></item><item><title><![CDATA[Independência de Dados]]></title><description><![CDATA[ 
  <br><a data-href="Independência Lógica" href="av1\arquitetura-de-três-esquemas\independência\independência-lógica.html" class="internal-link" target="_self" rel="noopener nofollow">Independência Lógica</a><br>
-<a data-href="Independência Física" href="av1\arquitetura-de-três-esquemas\independência\independência-física.html" class="internal-link" target="_self" rel="noopener nofollow">Independência Física</a>]]></description><link>av1\arquitetura-de-três-esquemas\independência\independência-de-dados.html</link><guid isPermaLink="false">AV1/Arquitetura de Três Esquemas/Independência/Independência de Dados.md</guid><pubDate>Tue, 25 Mar 2025 01:54:00 GMT</pubDate></item><item><title><![CDATA[Independência Física]]></title><description><![CDATA[ 
+<a data-href="Independência Física" href="av1\arquitetura-de-três-esquemas\independência\independência-física.html" class="internal-link" target="_self" rel="noopener nofollow">Independência Física</a>]]></description><link>av1\arquitetura-de-três-esquemas\independência\independência-de-dados.html</link><guid isPermaLink="false">AV1/Arquitetura de Três Esquemas/Independência/Independência de Dados.md</guid><pubDate>Wed, 26 Mar 2025 02:50:02 GMT</pubDate></item><item><title><![CDATA[Arquiteturas Centralizadas e Cliente Servidor]]></title><description><![CDATA[ 
+ <br><br>
+<br>As arquiteturas mais antigas usavam computadores mainframe para oferecer o processamento principal para todas as funções do sistema
+<br>A maioria dos usuários acessava tais sistemas por terminais de computador, que não tinham capacidade de processamento e serviam apenas para exibição
+<br>Todo o processamento era realizado de forma remota no computador central, que continha o SGBD, e somente informações de exibição e controle eram enviadas do computador para os terminais
+<br>Com a substituição dos terminais por PCs (bem como estações de trabalho e dispositivos móveis), os sistemas de banco de dados, a princípio, usavam esses computadores de modo semelhante aos terminais
+<br>Gradualmente, os sistemas de SGBD começaram a explorar o poder de processamento disponível no lado do usuário, levando a arquiteturas cliente/servidor
+<br><br>
+<br>Arquitetura desenvolvida para lidar com ambientes de computação em que um grande número de PCs e outros softwares e equipamentos são conectados por uma rede
+<br>A ideia é definir servidores especializados com funcionalidades específicas
+<br>Os recursos fornecidos pelos servidores especializados podem ser acessados por máquinas clientes
+<br>As máquinas clientes oferecem ao usuário as interfaces apropriadas para utilizar esses servidores, bem como poder de processamento local para executar aplicações locais
+<br>O conceito de arquitetura cliente/servidor assume uma estrutura básica composta por muitas máquinas clientes e um número menor de máquinas servidoras, conectadas por redes de computadores
+<br>Um cliente, nesta estrutura, normalmente é uma máquina que oferece capacidades de interface com o usuário e processamento local
+<br>Um servidor é um sistema com hardware e software que pode oferecer serviços às máquinas clientes
+<br>Em geral, algumas máquinas têm instalados apenas software cliente, outras apenas possuem software servidor, e ainda outras podem incluir ambos software cliente e servidor
+<br>É mais comum que o software cliente e servidor seja executado em máquinas separadas
+<br>A partir desta arquitetura básica, foram criadas outras duas arquiteturas: de duas camadas e três camadas
+<br><br>
+<br>Em SGBD relacionais (SGBDRs), os componentes do sistema movidos inicialmente para o lado do cliente foram a interface com o usuário e os programas de aplicação
+<br>As funcionalidades de consulta e de transação relacionadas ao processamento da SQL permaneceram do lado do servidor
+<br>Nesse tipo de arquitetura, o servidor é comumente chamado de servidor de consulta ou servidor de transação (em SGBDR, também é chamado de servidor SQL)
+<br>Os programas da interface com o usuário e programas de aplicação podem ser executados no lado do cliente
+<br>Quando é necessário acessar o SGBD, o programa estabelece uma conexão com o SGBD e, após criada a conexão, o programa cliente pode se comunicar com o SGBD
+<br>Um padrão denominado Conectividade de Banco de Dados Aberta (OBDC) oferece uma interface de programação de aplicações (API) que permite que os programas do cliente chamem o SGBD, desde que ambas as máquinas tenham o software necessário instalado
+<br>Um programa cliente pode se conectar a vários SGBDRs e enviar solicitações de consulta e transação usando a API da ODBC, que é processada nos servidores
+<br>Essas arquiteturas são chamadas de arquiteturas de duas camadas porque os componentes de software são distribuídos entre os sistemas cliente e servidor
+<br>As vantagens dessa arquitetura são sua simplicidade e compatibilidade transparente com os sistemas existentes
+<br>Esta arquitetura possui como desvantagens sua escalabilidade limitada e segurança reduzida
+<br><br>
+<br>Muitas aplicações web utilizam uma arquitetura chamada arquitetura de três camadas, que acrescenta uma camada intermediária entre o cliente e o servidor
+<br>Essa camada intermediária é chamada de servidor de aplicação, que desempenha um papel intermediário pela execução de programas de aplicação e armazenamento de regras de negócios usados para acessar os dados do servidor de banco de dados
+<br>Em partes, é responsável por melhorar a segurança do banco de dados, verificando as credenciais de um cliente antes de encaminhar uma solicitação ao servidor
+<br>O servidor intermediário aceita e processa solicitações do cliente, envia consultas e comandos do banco de dados ao servidor e, por fim, atua como um canal para passar (parcialmente) dados processados do servidor aos clientes, onde podem ser processados e filtrados antes de serem apresentados
+<br>Resumindo as funções de cada camada:
+
+<br>A camada de apresentação/esquema externo exibe informações ao usuário e permite a entrada de dados
+<br>A camada de lógica de negócios/esquema conceitual cuida das regras e restrições intermediárias antes dos dados serem passados para o usuário ou devolvidos ao SGBD
+
+<br>Também pode atuar como um servidor web, que recupera resultados das consultas do servidor de banco de dados e os formata para páginas web dinâmicas
+
+
+<br>A camada inferior/esquema interno inclui todos os serviços de gerenciamento de dados
+
+
+<br>Outras arquiteturas foram propostas, em especial a de subdivisão das 3 camadas em outros componentes ainda mais detalhados, o que resulta em uma arquitetura de n camadas
+
+<br>Geralmente, ocorre a camada da lógica de negócios é dividida em várias camadas para obter este tipo de arquitetura
+
+
+<br>Os fabricantes de pacotes de ERP e CRM costumam utilizar uma camada mediadora, que é responsável pelos módulos de front-end que se comunicam com uma série de bancos de dados de back-end
+]]></description><link>av1\arquiteturas-centralizadas\arquiteturas-centralizadas-e-cliente-servidor.html</link><guid isPermaLink="false">AV1/Arquiteturas Centralizadas/Arquiteturas Centralizadas e Cliente Servidor.md</guid><pubDate>Wed, 26 Mar 2025 03:39:43 GMT</pubDate></item><item><title><![CDATA[Atores em Cena]]></title><description><![CDATA[ 
+ <br><a data-href="Administradores do Banco de Dados" href="av1\atores\atores\administradores-do-banco-de-dados.html" class="internal-link" target="_self" rel="noopener nofollow">Administradores do Banco de Dados</a><br>
+<a data-href="Projetistas de Banco de Dados" href="av1\atores\atores\projetistas-de-banco-de-dados.html" class="internal-link" target="_self" rel="noopener nofollow">Projetistas de Banco de Dados</a><br>
+<a data-href="Usuários Finais" href="av1\atores\atores\usuários-finais.html" class="internal-link" target="_self" rel="noopener nofollow">Usuários Finais</a><br>
+<a data-href="Analistas de Sistemas e Programadores de Aplicações" href="av1\atores\atores\analistas-de-sistemas-e-programadores-de-aplicações.html" class="internal-link" target="_self" rel="noopener nofollow">Analistas de Sistemas e Programadores de Aplicações</a>]]></description><link>av1\atores\atores\atores-em-cena.html</link><guid isPermaLink="false">AV1/Atores/Atores/Atores em Cena.md</guid><pubDate>Wed, 26 Mar 2025 00:55:41 GMT</pubDate></item><item><title><![CDATA[Bastidores]]></title><description><![CDATA[ 
+ <br><a data-href="Projetistas e Implementadores de SGBD" href="av1\atores\bastidores\projetistas-e-implementadores-de-sgbd.html" class="internal-link" target="_self" rel="noopener nofollow">Projetistas e Implementadores de SGBD</a><br>
+<a data-href="Desenvolvedores de Ferramentas" href="av1\atores\bastidores\desenvolvedores-de-ferramentas.html" class="internal-link" target="_self" rel="noopener nofollow">Desenvolvedores de Ferramentas</a><br>
+<a data-href="Operadores e Manutenção" href="av1\atores\bastidores\operadores-e-manutenção.html" class="internal-link" target="_self" rel="noopener nofollow">Operadores e Manutenção</a>]]></description><link>av1\atores\bastidores\bastidores.html</link><guid isPermaLink="false">AV1/Atores/Bastidores/Bastidores.md</guid><pubDate>Wed, 26 Mar 2025 00:55:41 GMT</pubDate></item><item><title><![CDATA[Características da Abordagem de Banco de Dados]]></title><description><![CDATA[ 
+ <br>
+<br>No processamento de arquivos tradicional, cada usuário define e implementa os arquivos necessários para uma aplicação de software específica como parte da programação da aplicação
+<br>Na abordagem de banco de dados, um único repositório mantém dados que são definidos uma vez e, posteriormente, acessados por vários usuários repetidamente por meio de consultas, transações e programas de aplicação
+<br><br>
+<br>O sistema contém não apenas o próprio banco de dados, mas também uma definição ou descrição completa de sua estrutura e restrições
+<br>Essa definição é armazenada no catálogo do SGBD, que contém informações como a estrutura de cada arquivo, o tipo e o formato de armazenamento de cada item e restrições sobre os dados
+<br>A informação armazenada no catálogo é chamada de metadados, e descreve a estrutura do banco de dados principal
+<br>No processamento de arquivos tradicional, a definição de dados normalmente faz parte dos próprios programas de aplicação
+<br>O catálogo é usado pelo SGBD e também pelos usuários do banco de dados que precisam de informações sobre a estrutura do banco de dados
+<br>Um pacote de software de SGBD de uso geral não é escrito para uma aplicação de banco de dados específica
+<br>O software de SGBD precisa trabalhar de forma satisfatória com qualquer quantidade de aplicações de banco de dados
+<br><br>
+<br>A estrutura dos arquivos de dados é armazenada no catálogo do SGBD separadamente dos programas de acesso
+<br>Essa propriedade é chamada de independência de dados do programa
+<br>Uma operação (também chamada de função ou método) é especificada em duas partes:
+
+<br>Interface/Assinatura - Inclui o nome da operação e os tipos de dados de seus argumentos (ou parâmetros)
+<br>Implementação/Método - Especificada separadamente, podendo ser alterada sem afetar a interface
+
+
+<br>Os programas de aplicação do usuário podem operar sobre os dados usando operações por meio de seus nomes e argumentos, independentemente de como elas são implementadas (independência de operação do programa)
+<br>A característica que permite a independência de dados do programa é chamada de <a data-tooltip-position="top" aria-label="Características da Abordagem de Banco de Dados > Abstração de Dados" data-href="Características da Abordagem de Banco de Dados#Abstração de Dados" href="av1\características\características-da-abordagem-de-banco-de-dados.html#Abstração_de_Dados" class="internal-link" target="_self" rel="noopener nofollow">abstração de dados</a>
+<br><br>
+<br>Representação conceitual de dados
+<br>Não inclui muitos dos detalhes de implementação/armazenamento dos dados
+<br>Um modelo de dados é um tipo de abstração usado para oferecer essa representação conceitual
+<br>Usa conceitos lógicos que os usuários podem compreender mais rapidamente que os conceitos de armazenamento no computador
+<br>A estrutura e organização detalhadas de cada arquivo são armazenadas no catálogo
+<br>Em bancos de dados orientados a objeto e objeto-relacional, o processo de abstração não inclui apenas a estrutura dos dados, mas também as operações sobre eles
+<br><br>
+<br>Uma visão (ou view) pode ser um subconjunto do banco de dados que pode (ou não) conter dados virtuais derivados dos arquivos
+<br>Um SGBD multiusuário cujos usuários têm uma série de aplicações distintas precisa oferecer facilidades para definir múltiplas visões
+<br><br>
+<br>Um SGBD multiusuário precisa incluir software de controle de ocorrência, a fim de garantir que vários usuários tentando atualizar os mesmos dados façam isso de maneira controlada, de modo que o resultado das atualizações seja correto
+<br><br>
+<br>Uma transação é um programa em execução ou processo que inclui um ou mais acessos ao banco de dados, como a leitura ou atualização dos registros
+<br>Cada transação deve executar um acesso ao banco de dados, sendo logicamente correta para ser executada em sua totalidade, sem interferência de outras transações
+<br>Possui as seguintes propriedades:
+
+<br>Isolamento - Garante que cada transação pareça executar isoladamente das outras transações, embora várias possam estar acontecendo simultaneamente
+<br>Atomicidade - Garante que todas as operações em uma transação sejam executadas ou nenhum seja
+
+
+]]></description><link>av1\características\características-da-abordagem-de-banco-de-dados.html</link><guid isPermaLink="false">AV1/Características/Características da Abordagem de Banco de Dados.md</guid><pubDate>Wed, 26 Mar 2025 00:55:42 GMT</pubDate></item><item><title><![CDATA[Centralizado]]></title><description><![CDATA[ 
+ ]]></description><link>av1\classificação\locais\centralizado.html</link><guid isPermaLink="false">AV1/Classificação/Locais/Centralizado.md</guid><pubDate>Wed, 26 Mar 2025 04:17:38 GMT</pubDate></item><item><title><![CDATA[Distribuído]]></title><description><![CDATA[ 
+ <br><a data-href="Homogêneo" href="av1\classificação\locais\homogêneo.html" class="internal-link" target="_self" rel="noopener nofollow">Homogêneo</a><br>
+<a data-href="Heterogêneo" href="av1\classificação\locais\heterogêneo.html" class="internal-link" target="_self" rel="noopener nofollow">Heterogêneo</a>]]></description><link>av1\classificação\locais\distribuído.html</link><guid isPermaLink="false">AV1/Classificação/Locais/Distribuído.md</guid><pubDate>Wed, 26 Mar 2025 04:18:11 GMT</pubDate></item><item><title><![CDATA[Heterogêneo]]></title><description><![CDATA[ 
+ ]]></description><link>av1\classificação\locais\heterogêneo.html</link><guid isPermaLink="false">AV1/Classificação/Locais/Heterogêneo.md</guid><pubDate>Wed, 26 Mar 2025 04:18:10 GMT</pubDate></item><item><title><![CDATA[Homogêneo]]></title><description><![CDATA[ 
+ ]]></description><link>av1\classificação\locais\homogêneo.html</link><guid isPermaLink="false">AV1/Classificação/Locais/Homogêneo.md</guid><pubDate>Wed, 26 Mar 2025 04:18:07 GMT</pubDate></item><item><title><![CDATA[Número de Locais]]></title><description><![CDATA[ 
+ <br><a data-href="Centralizado" href="av1\classificação\locais\centralizado.html" class="internal-link" target="_self" rel="noopener nofollow">Centralizado</a><br>
+<a data-href="Distribuído" href="av1\classificação\locais\distribuído.html" class="internal-link" target="_self" rel="noopener nofollow">Distribuído</a>]]></description><link>av1\classificação\locais\número-de-locais.html</link><guid isPermaLink="false">AV1/Classificação/Locais/Número de Locais.md</guid><pubDate>Wed, 26 Mar 2025 04:17:46 GMT</pubDate></item><item><title><![CDATA[Chave-Valor]]></title><description><![CDATA[ 
+ ]]></description><link>av1\classificação\modelo\chave-valor.html</link><guid isPermaLink="false">AV1/Classificação/Modelo/Chave-Valor.md</guid><pubDate>Wed, 26 Mar 2025 04:16:48 GMT</pubDate></item><item><title><![CDATA[Coluna]]></title><description><![CDATA[ 
+ ]]></description><link>av1\classificação\modelo\coluna.html</link><guid isPermaLink="false">AV1/Classificação/Modelo/Coluna.md</guid><pubDate>Wed, 26 Mar 2025 04:17:05 GMT</pubDate></item><item><title><![CDATA[Documento]]></title><description><![CDATA[ 
+ ]]></description><link>av1\classificação\modelo\documento.html</link><guid isPermaLink="false">AV1/Classificação/Modelo/Documento.md</guid><pubDate>Wed, 26 Mar 2025 04:16:55 GMT</pubDate></item><item><title><![CDATA[Grafo]]></title><description><![CDATA[ 
+ ]]></description><link>av1\classificação\modelo\grafo.html</link><guid isPermaLink="false">AV1/Classificação/Modelo/Grafo.md</guid><pubDate>Wed, 26 Mar 2025 04:16:58 GMT</pubDate></item><item><title><![CDATA[Legados]]></title><description><![CDATA[ 
+ ]]></description><link>av1\classificação\modelo\legados.html</link><guid isPermaLink="false">AV1/Classificação/Modelo/Legados.md</guid><pubDate>Wed, 26 Mar 2025 04:17:13 GMT</pubDate></item><item><title><![CDATA[Modelo de Dados]]></title><description><![CDATA[ 
+ <br><a data-href="Relacional" href="av1\classificação\modelo\relacional.html" class="internal-link" target="_self" rel="noopener nofollow">Relacional</a><br>
+<a data-href="Objeto" href="av1\classificação\modelo\objeto.html" class="internal-link" target="_self" rel="noopener nofollow">Objeto</a><br>
+<a data-href="Chave-Valor" href="av1\classificação\modelo\chave-valor.html" class="internal-link" target="_self" rel="noopener nofollow">Chave-Valor</a><br>
+<a data-href="Documento" href="av1\classificação\modelo\documento.html" class="internal-link" target="_self" rel="noopener nofollow">Documento</a><br>
+<a data-href="Grafo" href="av1\classificação\modelo\grafo.html" class="internal-link" target="_self" rel="noopener nofollow">Grafo</a><br>
+<a data-href="Coluna" href="av1\classificação\modelo\coluna.html" class="internal-link" target="_self" rel="noopener nofollow">Coluna</a><br>
+<a data-href="XML" href="av1\classificação\modelo\xml.html" class="internal-link" target="_self" rel="noopener nofollow">XML</a><br>
+<a data-href="Legados" href="av1\classificação\modelo\legados.html" class="internal-link" target="_self" rel="noopener nofollow">Legados</a>]]></description><link>av1\classificação\modelo\modelo-de-dados.html</link><guid isPermaLink="false">AV1/Classificação/Modelo/Modelo de Dados.md</guid><pubDate>Wed, 26 Mar 2025 04:17:12 GMT</pubDate></item><item><title><![CDATA[Objeto]]></title><description><![CDATA[ 
+ ]]></description><link>av1\classificação\modelo\objeto.html</link><guid isPermaLink="false">AV1/Classificação/Modelo/Objeto.md</guid><pubDate>Wed, 26 Mar 2025 04:14:59 GMT</pubDate></item><item><title><![CDATA[Relacional]]></title><description><![CDATA[ 
+ ]]></description><link>av1\classificação\modelo\relacional.html</link><guid isPermaLink="false">AV1/Classificação/Modelo/Relacional.md</guid><pubDate>Wed, 26 Mar 2025 04:14:56 GMT</pubDate></item><item><title><![CDATA[Monousuário]]></title><description><![CDATA[ 
+ ]]></description><link>av1\classificação\usuários\monousuário.html</link><guid isPermaLink="false">AV1/Classificação/Usuários/Monousuário.md</guid><pubDate>Wed, 26 Mar 2025 04:18:45 GMT</pubDate></item><item><title><![CDATA[Multiusuário]]></title><description><![CDATA[ 
+ ]]></description><link>av1\classificação\usuários\multiusuário.html</link><guid isPermaLink="false">AV1/Classificação/Usuários/Multiusuário.md</guid><pubDate>Wed, 26 Mar 2025 04:18:49 GMT</pubDate></item><item><title><![CDATA[Número de Usuários]]></title><description><![CDATA[ 
+ <br><a data-href="Monousuário" href="av1\classificação\usuários\monousuário.html" class="internal-link" target="_self" rel="noopener nofollow">Monousuário</a><br>
+<a data-href="Multiusuário" href="av1\classificação\usuários\multiusuário.html" class="internal-link" target="_self" rel="noopener nofollow">Multiusuário</a>]]></description><link>av1\classificação\usuários\número-de-usuários.html</link><guid isPermaLink="false">AV1/Classificação/Usuários/Número de Usuários.md</guid><pubDate>Wed, 26 Mar 2025 04:18:50 GMT</pubDate></item><item><title><![CDATA[Classificação dos SGBDs]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>Representa um banco de dados como uma coleção de tabelas, onde cada tabela pode ser armazenada como um arquivo separado
+<br>A maior parte dos bancos de dados relacionais usa a linguagem de consulta de alto nível (SQL) e admite uma forma limitada de visões do usuário
+<br><br>
+<br>Define um banco de dados em termos de objetos, suas propriedades e operações
+<br>Objetos com a mesma estrutura e comportamento pertencem a uma classe, e as classes são organizadas em hierarquias
+<br>As operações de cada classe são especificadas com procedimentos predefinidos, chamados métodos
+<br>Os SGBDs relacionais têm estendido seus modelos para incorporar conceitos de banco de dados de objeto e outras funcionalidades, originando os chamados sistemas objeto-relacional ou sistemas relacionais estendidos
+<br><br>
+<br>Associa uma chave única a cada valor (que pode ser um registro ou um objeto) e fornece acesso muito rápido a um valor a partir de sua chave
+<br><br>
+<br>Baseado em JSON (Java Script Object Notation)
+<br>Armazena os dados como documentos semelhantes a objetos complexos
+<br><br>
+<br>Armazena objetos como nós de um grafo
+<br>As relações entre objetos são representadas como arestas direcionadas do grafo
+<br><br>
+<br>Armazenam as colunas de linhas agrupadas em várias páginas de disco
+<br>Garantem um acesso mais rápido e permitem múltiplas versões dos dados
+<br><br>
+<br>Surgiu como um padrão para troca de dados pela web e foi usado como base para implementar vários protótipos de sistemas com XML nativa
+<br>Os dados são representados como elementos. Com o uso de tags, os dados podem ser aninhados para criar estruturas hierárquicas complexas
+<br><br><br><br>
+<br>Admitem apenas um usuário de cada vez
+<br>Usados principalmente com computadores pessoais
+<br><br>
+<br>Incluem a maioria dos SGBDs
+<br>Admitem múltiplos usuários simultaneamente
+<br><br><br>
+<br>Os dados estão armazenados em um único computador
+<br>Pode atender a vários usuários, mas o SGBD e o banco de dados residem integralmente em um único computador
+<br><br>
+<br>Também chamados de SGBDDs, podem ter o banco de dados real e o software de SGBD distribuídos por vários locais, conectados por uma rede de computadores
+<br>Os dados são, normalmente, replicados em vários locais, de modo que a falha de um deles não tornará os dados indisponíveis
+<br>Subdivide-se em mais dois grupos:
+
+<br>SGBDD Homogêneo - Usam o mesmo software de SGBD em todos os locais
+<br>SGBDD Heterogêneo - Podem usar um software de SGBD diferente em cada local
+
+
+<br><br>
+<br>Critério mais difícil de se propor uma classificação
+<br>Há muitos SGBDs de código aberto; outros com versões gratuitas, porém limitadas; e outros mais avançados, porém com altos custos de licença
+<br><br><br>]]></description><link>av1\classificação\classificação-dos-sgbds.html</link><guid isPermaLink="false">AV1/Classificação/Classificação dos SGBDs.md</guid><pubDate>Wed, 26 Mar 2025 04:15:15 GMT</pubDate></item><item><title><![CDATA[Custo]]></title><description><![CDATA[ 
+ ]]></description><link>av1\classificação\custo.html</link><guid isPermaLink="false">AV1/Classificação/Custo.md</guid><pubDate>Wed, 26 Mar 2025 03:41:56 GMT</pubDate></item><item><title><![CDATA[Quando Não Usar um SGBD]]></title><description><![CDATA[ 
+ <br>
+<br>Existem algumas situações em que um SGBD pode envolver custos adicionais desnecessários:
+
+<br>Alto investimento inicial em hardware, software e treinamento
+<br>Generalidade que um SGBD oferece para a definição e processamento de dados
+<br>Esforço adicional para oferecer funções de segurança, controle de ocorrência, recuperação e integridade
+
+
+<br>Portanto, pode ser mais desejável usar arquivos comuns sob as seguintes circunstâncias:
+
+<br>Aplicações de banco de dados simples e bem definidas, onde não se esperam muitas mudanças
+<br>Requisitos rigorosos, em tempo real, para alguns programas de aplicação que não podem ser atendidos em decorrência de sobrecarga de operações em um SGBD
+<br>Sistemas embarcados com capacidade de armazenamento limitada
+<br>Não há acesso de múltiplos usuários aos dados
+
+
+]]></description><link>av1\não-usar-sgbd\quando-não-usar-um-sgbd.html</link><guid isPermaLink="false">AV1/Não Usar SGBD/Quando Não Usar um SGBD.md</guid><pubDate>Wed, 26 Mar 2025 00:55:45 GMT</pubDate></item><item><title><![CDATA[Vantagens da Abordagem de SGBD]]></title><description><![CDATA[ 
+ <br><br>
+<br>No desenvolvimento de software tradicional com processamento de arquivos, cada grupo de usuários mantém seus próprios arquivos para tratar das suas aplicações de processamento de dados
+<br>Essa redundância em armazenar os mesmos dados várias vezes pode ocasionar vários problemas:
+
+<br>Duplicação de esforço
+<br>Desperdício de espaço de armazenamento
+<br>Possibilidade de inconsistência entre arquivos que representam os mesmos dados
+
+
+<br>Às vezes, é necessário o uso de redundância controlada para melhorar o desempenho das consultas
+<br><br>
+<br>Um SGBD deve oferecer um subsistema de segurança e autorização, disponível para uso do DBA para criar contas e especificar restrições
+<br>Relaciona-se diretamente com o conceito de software privilegiado
+<br><br>
+<br>Bancos de dados podem ser usados para oferecer armazenamento permanente para objetos e estruturas de dados do programa
+<br>Um dos principais motivos para se usar sistemas de banco de dados orientados a objeto
+<br>Um objeto é considerado persistente quando sobrevive ao término da execução e pode ser recuperado posteriormente por outro programa
+<br>Os sistemas tradicionais normalmente sofrem do problema de divergência de impedância, pois as estruturas de dados fornecidas pelo SGBD eram incompatíveis com as estruturas da linguagem de programação
+<br><br>
+<br>Sistemas de banco de dados precisam oferecer capacidades para executar consultas e atualizações de maneira eficiente
+<br>Para isso, arquivos auxiliares chamados de índices são comumente utilizados
+<br>O SGBD normalmente tem um módulo de buffering ou caching que mantém partes do banco de dados nos buffers de memória principais
+<br>O módulo de processamento e otimização de consulta do SGBD é responsável por escolher um plano de execução eficiente para cada consulta com base nas estruturas de armazenamento existentes
+<br><br>
+<br>Um SGBD precisa oferecer facilidades para se recuperar de falhas de hardware ou software
+<br>O sistema de backup e recuperação do SGBD é responsável pela recuperação
+<br><br>
+<br>Visam reduzir a limitação de uso, dados os diferentes níveis de conhecimento técnico dos usuários
+<br>As interfaces no estilo de formulários e controladas por menus normalmente são conhecidas como interfaces gráficas de usuário (GUIs)
+<br>Geralmente envolve o uso de uma linguagem/ambiente especializado para criação de GUIs
+<br><br><br>
+<br>A maioria das aplicações de banco de dados possui algumas restrições de integridade
+<br>O tipo mais simples de restrição envolve especificar um tipo de dados para cada item de dados
+<br>Outro tipo de restrição especifica unicidade sobre valores de item de dados, como definição de valores obrigatórios e/ou únicos
+
+<br>Conhecido como restrição de chave ou unicidade
+
+
+<br>São derivadas do significado ou da semântica dos dados e do que eles representam
+<br>É responsabilidade dos projetistas do banco de dados identificar restrições de integridade durante o projeto
+<br>Um item de dados pode ser inserido erroneamente e ainda satisfazer as restrições de integridade especificadas
+<br>Regras que pertencem a um modelo de dados específico são chamadas de regras inerentes ao modelo de dados
+<br><br>
+<br>Alguns sistemas de banco de dados oferecem capacidades para definir regras de dedução a fim de inferir novas informações com base nos fatos armazenados no banco de dados
+<br>Os sistemas que oferecem tais capacidades são chamados de sistemas de banco de dados dedutivos
+<br>Nos sistemas de banco de dados relacionais mais atuais, é possível associar gatilhos/triggers a tabelas
+
+<br>Gatilho - Forma de regra ativada por atualizações na tabela, que resulta na realização de operações adicionais
+
+
+<br>Procedimentos mais elaborados para impor regras são popularmente chamados de procedimentos armazenados (stored procedures)
+<br>A funcionalidade mais poderosa é fornecida por sistemas de banco de dados ativos, que oferecem regras ativas que automaticamente iniciam ações quando ocorrem certos eventos e condições
+<br><br><br>
+<br>O DBA pode garantir padrões em um ambiente de banco de dados centralizado mais facilmente do que em um ambiente no qual cada grupo de usuários tem controle dos seus próprios arquivos de dados e software
+<br><br>
+<br>O desenvolvimento de uma nova aplicação - como a recuperação de certos dados para geração de um novo relatório - leva um tempo consideravelmente curto
+<br>Estima-se que o tempo de desenvolvimento usando um SGBD seja um sexto a um quarto daquele para um sistema de arquivo tradicional
+<br><br>
+<br>Pode, em algum momento, ser necessário alterar a estrutura de um banco de dados à medida em que os requisitos mudam
+<br>Os SGBDs modernos permitem certos tipos de mudanças evolutivas na estrutura sem afetar os dados armazenados e os programas de aplicação existentes
+<br><br>
+<br>Um SGBD torna o banco de dados disponível a todos os usuários
+<br>A disponibilidade de informações atualizadas é possibilitada pelos subsistemas de controle de ocorrência e recuperação de um SGBD
+<br><br>
+<br>Permite a consolidação de dados e aplicações, reduzindo a quantidade de sobreposição desperdiçada entre as atividades do pessoal de processamento de dados em diferentes projetos/departamentos, bem como as redundâncias entre aplicações
+<br>Reduz os custos gerais de operação e gerenciamento
+]]></description><link>av1\vantagens-sgbd\vantagens-da-abordagem-de-sgbd.html</link><guid isPermaLink="false">AV1/Vantagens SGBD/Vantagens da Abordagem de SGBD.md</guid><pubDate>Wed, 26 Mar 2025 00:55:45 GMT</pubDate></item><item><title><![CDATA[Compilador da DDL]]></title><description><![CDATA[ 
+ ]]></description><link>av1\ambiente\módulos\compilador-da-ddl.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Compilador da DDL.md</guid><pubDate>Tue, 25 Mar 2025 20:34:17 GMT</pubDate></item><item><title><![CDATA[Compilador de Consulta]]></title><description><![CDATA[ 
+ ]]></description><link>av1\ambiente\módulos\compilador-de-consulta.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Compilador de Consulta.md</guid><pubDate>Tue, 25 Mar 2025 20:34:47 GMT</pubDate></item><item><title><![CDATA[Interface de Consulta Interativa]]></title><description><![CDATA[ 
+ ]]></description><link>av1\ambiente\módulos\interface-de-consulta-interativa.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Interface de Consulta Interativa.md</guid><pubDate>Tue, 25 Mar 2025 20:34:24 GMT</pubDate></item><item><title><![CDATA[Módulo de Gerenciamento de Buffer]]></title><description><![CDATA[ 
+ ]]></description><link>av1\ambiente\módulos\módulo-de-gerenciamento-de-buffer.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Módulo de Gerenciamento de Buffer.md</guid><pubDate>Tue, 25 Mar 2025 20:33:38 GMT</pubDate></item><item><title><![CDATA[Módulo Gerenciador de Dados Armazenados]]></title><description><![CDATA[ 
+ ]]></description><link>av1\ambiente\módulos\módulo-gerenciador-de-dados-armazenados.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Módulo Gerenciador de Dados Armazenados.md</guid><pubDate>Tue, 25 Mar 2025 20:33:51 GMT</pubDate></item><item><title><![CDATA[Módulos Componentes do SGBD]]></title><description><![CDATA[ 
+ <br><a data-href="Sistema Operacional" href="av1\ambiente\módulos\sistema-operacional.html" class="internal-link" target="_self" rel="noopener nofollow">Sistema Operacional</a><br>
+<a data-href="Módulo de Gerenciamento de Buffer" href="av1\ambiente\módulos\módulo-de-gerenciamento-de-buffer.html" class="internal-link" target="_self" rel="noopener nofollow">Módulo de Gerenciamento de Buffer</a><br>
+<a data-href="Módulo Gerenciador de Dados Armazenados" href="av1\ambiente\módulos\módulo-gerenciador-de-dados-armazenados.html" class="internal-link" target="_self" rel="noopener nofollow">Módulo Gerenciador de Dados Armazenados</a><br>
+<a data-href="Compilador da DDL" href="av1\ambiente\módulos\compilador-da-ddl.html" class="internal-link" target="_self" rel="noopener nofollow">Compilador da DDL</a><br>
+<a data-href="Interface de Consulta Interativa" href="av1\ambiente\módulos\interface-de-consulta-interativa.html" class="internal-link" target="_self" rel="noopener nofollow">Interface de Consulta Interativa</a><br>
+<a data-href="Compilador de Consulta" href="av1\ambiente\módulos\compilador-de-consulta.html" class="internal-link" target="_self" rel="noopener nofollow">Compilador de Consulta</a><br>
+<a data-href="Otimizador de Consulta" href="av1\ambiente\módulos\otimizador-de-consulta.html" class="internal-link" target="_self" rel="noopener nofollow">Otimizador de Consulta</a><br>
+<a data-href="Pré-Compilador" href="av1\ambiente\módulos\pré-compilador.html" class="internal-link" target="_self" rel="noopener nofollow">Pré-Compilador</a><br>
+<a data-href="Processador de BD em Tempo de Execução" href="av1\ambiente\módulos\processador-de-bd-em-tempo-de-execução.html" class="internal-link" target="_self" rel="noopener nofollow">Processador de BD em Tempo de Execução</a><br>
+<a data-href="Programa Cliente" href="av1\ambiente\módulos\programa-cliente.html" class="internal-link" target="_self" rel="noopener nofollow">Programa Cliente</a><br>
+<a data-href="Servidor de Aplicações" href="av1\ambiente\módulos\servidor-de-aplicações.html" class="internal-link" target="_self" rel="noopener nofollow">Servidor de Aplicações</a>]]></description><link>av1\ambiente\módulos\módulos-componentes-do-sgbd.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Módulos Componentes do SGBD.md</guid><pubDate>Tue, 25 Mar 2025 20:35:41 GMT</pubDate></item><item><title><![CDATA[Otimizador de Consulta]]></title><description><![CDATA[ 
+ ]]></description><link>av1\ambiente\módulos\otimizador-de-consulta.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Otimizador de Consulta.md</guid><pubDate>Tue, 25 Mar 2025 20:35:04 GMT</pubDate></item><item><title><![CDATA[Pré-Compilador]]></title><description><![CDATA[ 
+ ]]></description><link>av1\ambiente\módulos\pré-compilador.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Pré-Compilador.md</guid><pubDate>Tue, 25 Mar 2025 20:35:12 GMT</pubDate></item><item><title><![CDATA[Processador de BD em Tempo de Execução]]></title><description><![CDATA[ 
+ ]]></description><link>av1\ambiente\módulos\processador-de-bd-em-tempo-de-execução.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Processador de BD em Tempo de Execução.md</guid><pubDate>Tue, 25 Mar 2025 20:35:29 GMT</pubDate></item><item><title><![CDATA[Programa Cliente]]></title><description><![CDATA[ 
+ ]]></description><link>av1\ambiente\módulos\programa-cliente.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Programa Cliente.md</guid><pubDate>Tue, 25 Mar 2025 20:35:36 GMT</pubDate></item><item><title><![CDATA[Servidor de Aplicações]]></title><description><![CDATA[ 
+ ]]></description><link>av1\ambiente\módulos\servidor-de-aplicações.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Servidor de Aplicações.md</guid><pubDate>Tue, 25 Mar 2025 20:35:43 GMT</pubDate></item><item><title><![CDATA[Sistema Operacional]]></title><description><![CDATA[ 
+ ]]></description><link>av1\ambiente\módulos\sistema-operacional.html</link><guid isPermaLink="false">AV1/Ambiente/Módulos/Sistema Operacional.md</guid><pubDate>Tue, 25 Mar 2025 20:33:18 GMT</pubDate></item><item><title><![CDATA[Backup]]></title><description><![CDATA[ 
+ ]]></description><link>av1\ambiente\utilitários\backup.html</link><guid isPermaLink="false">AV1/Ambiente/Utilitários/Backup.md</guid><pubDate>Tue, 25 Mar 2025 20:44:04 GMT</pubDate></item><item><title><![CDATA[Carga]]></title><description><![CDATA[ 
+ ]]></description><link>av1\ambiente\utilitários\carga.html</link><guid isPermaLink="false">AV1/Ambiente/Utilitários/Carga.md</guid><pubDate>Tue, 25 Mar 2025 20:44:01 GMT</pubDate></item><item><title><![CDATA[Monitoração de Desempenho]]></title><description><![CDATA[ 
+ ]]></description><link>av1\ambiente\utilitários\monitoração-de-desempenho.html</link><guid isPermaLink="false">AV1/Ambiente/Utilitários/Monitoração de Desempenho.md</guid><pubDate>Tue, 25 Mar 2025 20:44:23 GMT</pubDate></item><item><title><![CDATA[Reorganização do Armazenamento]]></title><description><![CDATA[ 
+ ]]></description><link>av1\ambiente\utilitários\reorganização-do-armazenamento.html</link><guid isPermaLink="false">AV1/Ambiente/Utilitários/Reorganização do Armazenamento.md</guid><pubDate>Tue, 25 Mar 2025 20:44:15 GMT</pubDate></item><item><title><![CDATA[Utilitários do Sistema]]></title><description><![CDATA[ 
+ <br><a data-href="Carga" href="av1\ambiente\utilitários\carga.html" class="internal-link" target="_self" rel="noopener nofollow">Carga</a><br>
+<a data-href="Backup" href="av1\ambiente\utilitários\backup.html" class="internal-link" target="_self" rel="noopener nofollow">Backup</a><br>
+<a data-href="Reorganização do Armazenamento" href="av1\ambiente\utilitários\reorganização-do-armazenamento.html" class="internal-link" target="_self" rel="noopener nofollow">Reorganização do Armazenamento</a><br>
+<a data-href="Monitoração de Desempenho" href="av1\ambiente\utilitários\monitoração-de-desempenho.html" class="internal-link" target="_self" rel="noopener nofollow">Monitoração de Desempenho</a>]]></description><link>av1\ambiente\utilitários\utilitários-do-sistema.html</link><guid isPermaLink="false">AV1/Ambiente/Utilitários/Utilitários do Sistema.md</guid><pubDate>Tue, 25 Mar 2025 20:44:23 GMT</pubDate></item><item><title><![CDATA[Ferramentas, Ambientes de Aplicação e Facilidades de Comunicações]]></title><description><![CDATA[ 
+ ]]></description><link>av1\ambiente\ferramentas,-ambientes-de-aplicação-e-facilidades-de-comunicações.html</link><guid isPermaLink="false">AV1/Ambiente/Ferramentas, Ambientes de Aplicação e Facilidades de Comunicações.md</guid><pubDate>Tue, 25 Mar 2025 04:29:25 GMT</pubDate></item><item><title><![CDATA[Independência Física]]></title><description><![CDATA[ 
  ]]></description><link>av1\arquitetura-de-três-esquemas\independência\independência-física.html</link><guid isPermaLink="false">AV1/Arquitetura de Três Esquemas/Independência/Independência Física.md</guid><pubDate>Tue, 25 Mar 2025 01:54:00 GMT</pubDate></item><item><title><![CDATA[Independência Lógica]]></title><description><![CDATA[ 
  ]]></description><link>av1\arquitetura-de-três-esquemas\independência\independência-lógica.html</link><guid isPermaLink="false">AV1/Arquitetura de Três Esquemas/Independência/Independência Lógica.md</guid><pubDate>Tue, 25 Mar 2025 01:53:51 GMT</pubDate></item><item><title><![CDATA[Arquitetura de Três Esquemas]]></title><description><![CDATA[ 
  <br><a data-href="Nível Interno" href="av1\arquitetura-de-três-esquemas\três-esquemas\nível-interno.html" class="internal-link" target="_self" rel="noopener nofollow">Nível Interno</a><br>
@@ -145,22 +404,14 @@ Nível externo
 <br>Por sua vez, a independência lógica é mais difícil de ser alcançada, dado que permite alterações estruturais e de restrição sem afetar os programas de aplicação
 <br>Sempre que se tem um SGBD de múltiplos níveis, seu catálogo deve ser expandido para incluir informações sobre como mapear solicitações e dados entre os níveis
 ]]></description><link>av1\arquitetura-de-três-esquemas\arquitetura-de-três-esquemas-e-independência-de-dados.html</link><guid isPermaLink="false">AV1/Arquitetura de Três Esquemas/Arquitetura de Três Esquemas e Independência de Dados.md</guid><pubDate>Tue, 25 Mar 2025 02:12:27 GMT</pubDate></item><item><title><![CDATA[Arquitetura Centralizada]]></title><description><![CDATA[ 
- ]]></description><link>av1\arquiteturas-centralizadas\arquitetura-centralizada.html</link><guid isPermaLink="false">AV1/Arquiteturas Centralizadas/Arquitetura Centralizada.md</guid><pubDate>Tue, 25 Mar 2025 18:14:32 GMT</pubDate></item><item><title><![CDATA[Arquiteturas Centralizadas e Cliente Servidor]]></title><description><![CDATA[ 
- <br><br><br><br>]]></description><link>av1\arquiteturas-centralizadas\arquiteturas-centralizadas-e-cliente-servidor.html</link><guid isPermaLink="false">AV1/Arquiteturas Centralizadas/Arquiteturas Centralizadas e Cliente Servidor.md</guid><pubDate>Tue, 25 Mar 2025 18:15:37 GMT</pubDate></item><item><title><![CDATA[Arquiteturas Cliente e Servidor Básicas]]></title><description><![CDATA[ 
+ ]]></description><link>av1\arquiteturas-centralizadas\arquitetura-centralizada.html</link><guid isPermaLink="false">AV1/Arquiteturas Centralizadas/Arquitetura Centralizada.md</guid><pubDate>Tue, 25 Mar 2025 18:14:32 GMT</pubDate></item><item><title><![CDATA[Arquiteturas Cliente e Servidor Básicas]]></title><description><![CDATA[ 
  ]]></description><link>av1\arquiteturas-centralizadas\arquiteturas-cliente-e-servidor-básicas.html</link><guid isPermaLink="false">AV1/Arquiteturas Centralizadas/Arquiteturas Cliente e Servidor Básicas.md</guid><pubDate>Tue, 25 Mar 2025 18:14:36 GMT</pubDate></item><item><title><![CDATA[Arquiteturas de Duas Camadas]]></title><description><![CDATA[ 
  ]]></description><link>av1\arquiteturas-centralizadas\arquiteturas-de-duas-camadas.html</link><guid isPermaLink="false">AV1/Arquiteturas Centralizadas/Arquiteturas de Duas Camadas.md</guid><pubDate>Tue, 25 Mar 2025 18:14:41 GMT</pubDate></item><item><title><![CDATA[Arquiteturas de Três Camadas e n Camadas para Aplicações Web]]></title><description><![CDATA[ 
  ]]></description><link>av1\arquiteturas-centralizadas\arquiteturas-de-três-camadas-e-n-camadas-para-aplicações-web.html</link><guid isPermaLink="false">AV1/Arquiteturas Centralizadas/Arquiteturas de Três Camadas e n Camadas para Aplicações Web.md</guid><pubDate>Tue, 25 Mar 2025 18:15:01 GMT</pubDate></item><item><title><![CDATA[Administradores do Banco de Dados]]></title><description><![CDATA[ 
  ]]></description><link>av1\atores\atores\administradores-do-banco-de-dados.html</link><guid isPermaLink="false">AV1/Atores/Atores/Administradores do Banco de Dados.md</guid><pubDate>Sat, 22 Mar 2025 19:14:28 GMT</pubDate></item><item><title><![CDATA[Analistas de Sistemas e Programadores de Aplicações]]></title><description><![CDATA[ 
- ]]></description><link>av1\atores\atores\analistas-de-sistemas-e-programadores-de-aplicações.html</link><guid isPermaLink="false">AV1/Atores/Atores/Analistas de Sistemas e Programadores de Aplicações.md</guid><pubDate>Sat, 22 Mar 2025 19:14:28 GMT</pubDate></item><item><title><![CDATA[Atores em Cena]]></title><description><![CDATA[ 
- <br><a data-href="Administradores do Banco de Dados" href="av1\atores\atores\administradores-do-banco-de-dados.html" class="internal-link" target="_self" rel="noopener nofollow">Administradores do Banco de Dados</a><br>
-<a data-href="Projetistas de Banco de Dados" href="av1\atores\atores\projetistas-de-banco-de-dados.html" class="internal-link" target="_self" rel="noopener nofollow">Projetistas de Banco de Dados</a><br>
-<a data-href="Usuários Finais" href="av1\atores\atores\usuários-finais.html" class="internal-link" target="_self" rel="noopener nofollow">Usuários Finais</a><br>
-<a data-href="Analistas de Sistemas e Programadores de Aplicações" href="av1\atores\atores\analistas-de-sistemas-e-programadores-de-aplicações.html" class="internal-link" target="_self" rel="noopener nofollow">Analistas de Sistemas e Programadores de Aplicações</a>]]></description><link>av1\atores\atores\atores-em-cena.html</link><guid isPermaLink="false">AV1/Atores/Atores/Atores em Cena.md</guid><pubDate>Wed, 26 Mar 2025 00:55:41 GMT</pubDate></item><item><title><![CDATA[Projetistas de Banco de Dados]]></title><description><![CDATA[ 
+ ]]></description><link>av1\atores\atores\analistas-de-sistemas-e-programadores-de-aplicações.html</link><guid isPermaLink="false">AV1/Atores/Atores/Analistas de Sistemas e Programadores de Aplicações.md</guid><pubDate>Sat, 22 Mar 2025 19:14:28 GMT</pubDate></item><item><title><![CDATA[Projetistas de Banco de Dados]]></title><description><![CDATA[ 
  ]]></description><link>av1\atores\atores\projetistas-de-banco-de-dados.html</link><guid isPermaLink="false">AV1/Atores/Atores/Projetistas de Banco de Dados.md</guid><pubDate>Sat, 22 Mar 2025 19:14:28 GMT</pubDate></item><item><title><![CDATA[Usuários Finais]]></title><description><![CDATA[ 
- ]]></description><link>av1\atores\atores\usuários-finais.html</link><guid isPermaLink="false">AV1/Atores/Atores/Usuários Finais.md</guid><pubDate>Sat, 22 Mar 2025 19:14:28 GMT</pubDate></item><item><title><![CDATA[Bastidores]]></title><description><![CDATA[ 
- <br><a data-href="Projetistas e Implementadores de SGBD" href="av1\atores\bastidores\projetistas-e-implementadores-de-sgbd.html" class="internal-link" target="_self" rel="noopener nofollow">Projetistas e Implementadores de SGBD</a><br>
-<a data-href="Desenvolvedores de Ferramentas" href="av1\atores\bastidores\desenvolvedores-de-ferramentas.html" class="internal-link" target="_self" rel="noopener nofollow">Desenvolvedores de Ferramentas</a><br>
-<a data-href="Operadores e Manutenção" href="av1\atores\bastidores\operadores-e-manutenção.html" class="internal-link" target="_self" rel="noopener nofollow">Operadores e Manutenção</a>]]></description><link>av1\atores\bastidores\bastidores.html</link><guid isPermaLink="false">AV1/Atores/Bastidores/Bastidores.md</guid><pubDate>Wed, 26 Mar 2025 00:55:41 GMT</pubDate></item><item><title><![CDATA[Desenvolvedores de Ferramentas]]></title><description><![CDATA[ 
+ ]]></description><link>av1\atores\atores\usuários-finais.html</link><guid isPermaLink="false">AV1/Atores/Atores/Usuários Finais.md</guid><pubDate>Sat, 22 Mar 2025 19:14:28 GMT</pubDate></item><item><title><![CDATA[Desenvolvedores de Ferramentas]]></title><description><![CDATA[ 
  ]]></description><link>av1\atores\bastidores\desenvolvedores-de-ferramentas.html</link><guid isPermaLink="false">AV1/Atores/Bastidores/Desenvolvedores de Ferramentas.md</guid><pubDate>Sat, 22 Mar 2025 19:14:28 GMT</pubDate></item><item><title><![CDATA[Operadores e Manutenção]]></title><description><![CDATA[ 
  ]]></description><link>av1\atores\bastidores\operadores-e-manutenção.html</link><guid isPermaLink="false">AV1/Atores/Bastidores/Operadores e Manutenção.md</guid><pubDate>Sat, 22 Mar 2025 19:14:28 GMT</pubDate></item><item><title><![CDATA[Projetistas e Implementadores de SGBD]]></title><description><![CDATA[ 
  ]]></description><link>av1\atores\bastidores\projetistas-e-implementadores-de-sgbd.html</link><guid isPermaLink="false">AV1/Atores/Bastidores/Projetistas e Implementadores de SGBD.md</guid><pubDate>Sat, 22 Mar 2025 19:14:28 GMT</pubDate></item><item><title><![CDATA[Atores em Cena e Bastidores]]></title><description><![CDATA[ 
@@ -194,57 +445,12 @@ Nível externo
 <br><br>
 <br>Responsáveis pela execução e manutenção real do ambiente de hardware e software para o sistema
 ]]></description><link>av1\atores\atores-em-cena-e-bastidores.html</link><guid isPermaLink="false">AV1/Atores/Atores em Cena e Bastidores.md</guid><pubDate>Mon, 24 Mar 2025 22:48:34 GMT</pubDate></item><item><title><![CDATA[Abstração de Dados]]></title><description><![CDATA[ 
- ]]></description><link>av1\características\abstração-de-dados.html</link><guid isPermaLink="false">AV1/Características/Abstração de Dados.md</guid><pubDate>Thu, 20 Mar 2025 17:28:18 GMT</pubDate></item><item><title><![CDATA[Características da Abordagem de Banco de Dados]]></title><description><![CDATA[ 
- <br>
-<br>No processamento de arquivos tradicional, cada usuário define e implementa os arquivos necessários para uma aplicação de software específica como parte da programação da aplicação
-<br>Na abordagem de banco de dados, um único repositório mantém dados que são definidos uma vez e, posteriormente, acessados por vários usuários repetidamente por meio de consultas, transações e programas de aplicação
-<br><br>
-<br>O sistema contém não apenas o próprio banco de dados, mas também uma definição ou descrição completa de sua estrutura e restrições
-<br>Essa definição é armazenada no catálogo do SGBD, que contém informações como a estrutura de cada arquivo, o tipo e o formato de armazenamento de cada item e restrições sobre os dados
-<br>A informação armazenada no catálogo é chamada de metadados, e descreve a estrutura do banco de dados principal
-<br>No processamento de arquivos tradicional, a definição de dados normalmente faz parte dos próprios programas de aplicação
-<br>O catálogo é usado pelo SGBD e também pelos usuários do banco de dados que precisam de informações sobre a estrutura do banco de dados
-<br>Um pacote de software de SGBD de uso geral não é escrito para uma aplicação de banco de dados específica
-<br>O software de SGBD precisa trabalhar de forma satisfatória com qualquer quantidade de aplicações de banco de dados
-<br><br>
-<br>A estrutura dos arquivos de dados é armazenada no catálogo do SGBD separadamente dos programas de acesso
-<br>Essa propriedade é chamada de independência de dados do programa
-<br>Uma operação (também chamada de função ou método) é especificada em duas partes:
-
-<br>Interface/Assinatura - Inclui o nome da operação e os tipos de dados de seus argumentos (ou parâmetros)
-<br>Implementação/Método - Especificada separadamente, podendo ser alterada sem afetar a interface
-
-
-<br>Os programas de aplicação do usuário podem operar sobre os dados usando operações por meio de seus nomes e argumentos, independentemente de como elas são implementadas (independência de operação do programa)
-<br>A característica que permite a independência de dados do programa é chamada de <a data-tooltip-position="top" aria-label="Características da Abordagem de Banco de Dados > Abstração de Dados" data-href="Características da Abordagem de Banco de Dados#Abstração de Dados" href="av1\características\características-da-abordagem-de-banco-de-dados.html#Abstração_de_Dados" class="internal-link" target="_self" rel="noopener nofollow">abstração de dados</a>
-<br><br>
-<br>Representação conceitual de dados
-<br>Não inclui muitos dos detalhes de implementação/armazenamento dos dados
-<br>Um modelo de dados é um tipo de abstração usado para oferecer essa representação conceitual
-<br>Usa conceitos lógicos que os usuários podem compreender mais rapidamente que os conceitos de armazenamento no computador
-<br>A estrutura e organização detalhadas de cada arquivo são armazenadas no catálogo
-<br>Em bancos de dados orientados a objeto e objeto-relacional, o processo de abstração não inclui apenas a estrutura dos dados, mas também as operações sobre eles
-<br><br>
-<br>Uma visão (ou view) pode ser um subconjunto do banco de dados que pode (ou não) conter dados virtuais derivados dos arquivos
-<br>Um SGBD multiusuário cujos usuários têm uma série de aplicações distintas precisa oferecer facilidades para definir múltiplas visões
-<br><br>
-<br>Um SGBD multiusuário precisa incluir software de controle de ocorrência, a fim de garantir que vários usuários tentando atualizar os mesmos dados façam isso de maneira controlada, de modo que o resultado das atualizações seja correto
-<br><br>
-<br>Uma transação é um programa em execução ou processo que inclui um ou mais acessos ao banco de dados, como a leitura ou atualização dos registros
-<br>Cada transação deve executar um acesso ao banco de dados, sendo logicamente correta para ser executada em sua totalidade, sem interferência de outras transações
-<br>Possui as seguintes propriedades:
-
-<br>Isolamento - Garante que cada transação pareça executar isoladamente das outras transações, embora várias possam estar acontecendo simultaneamente
-<br>Atomicidade - Garante que todas as operações em uma transação sejam executadas ou nenhum seja
-
-
-]]></description><link>av1\características\características-da-abordagem-de-banco-de-dados.html</link><guid isPermaLink="false">AV1/Características/Características da Abordagem de Banco de Dados.md</guid><pubDate>Wed, 26 Mar 2025 00:55:42 GMT</pubDate></item><item><title><![CDATA[Compartilhamento de Dados]]></title><description><![CDATA[ 
+ ]]></description><link>av1\características\abstração-de-dados.html</link><guid isPermaLink="false">AV1/Características/Abstração de Dados.md</guid><pubDate>Thu, 20 Mar 2025 17:28:18 GMT</pubDate></item><item><title><![CDATA[Compartilhamento de Dados]]></title><description><![CDATA[ 
  ]]></description><link>av1\características\compartilhamento-de-dados.html</link><guid isPermaLink="false">AV1/Características/Compartilhamento de Dados.md</guid><pubDate>Thu, 20 Mar 2025 17:27:53 GMT</pubDate></item><item><title><![CDATA[Isolamento entre Programas e Dados]]></title><description><![CDATA[ 
  ]]></description><link>av1\características\isolamento-entre-programas-e-dados.html</link><guid isPermaLink="false">AV1/Características/Isolamento entre Programas e Dados.md</guid><pubDate>Thu, 20 Mar 2025 17:27:22 GMT</pubDate></item><item><title><![CDATA[Natureza de Autodescrição]]></title><description><![CDATA[ 
  ]]></description><link>av1\características\natureza-de-autodescrição.html</link><guid isPermaLink="false">AV1/Características/Natureza de Autodescrição.md</guid><pubDate>Thu, 20 Mar 2025 17:27:07 GMT</pubDate></item><item><title><![CDATA[Processamento de Transação Multiusuário]]></title><description><![CDATA[ 
  ]]></description><link>av1\características\processamento-de-transação-multiusuário.html</link><guid isPermaLink="false">AV1/Características/Processamento de Transação Multiusuário.md</guid><pubDate>Thu, 20 Mar 2025 17:28:02 GMT</pubDate></item><item><title><![CDATA[Suporte para Múltiplas Visões]]></title><description><![CDATA[ 
- ]]></description><link>av1\características\suporte-para-múltiplas-visões.html</link><guid isPermaLink="false">AV1/Características/Suporte para Múltiplas Visões.md</guid><pubDate>Thu, 20 Mar 2025 17:27:38 GMT</pubDate></item><item><title><![CDATA[Classificação dos SGBDs]]></title><description><![CDATA[ 
- ]]></description><link>av1\classificação\classificação-dos-sgbds.html</link><guid isPermaLink="false">AV1/Classificação/Classificação dos SGBDs.md</guid><pubDate>Tue, 25 Mar 2025 18:13:55 GMT</pubDate></item><item><title><![CDATA[Banco de Dados]]></title><description><![CDATA[ 
+ ]]></description><link>av1\características\suporte-para-múltiplas-visões.html</link><guid isPermaLink="false">AV1/Características/Suporte para Múltiplas Visões.md</guid><pubDate>Thu, 20 Mar 2025 17:27:38 GMT</pubDate></item><item><title><![CDATA[Banco de Dados]]></title><description><![CDATA[ 
  ]]></description><link>av1\definições\banco-de-dados.html</link><guid isPermaLink="false">AV1/Definições/Banco de Dados.md</guid><pubDate>Thu, 20 Mar 2025 16:25:14 GMT</pubDate></item><item><title><![CDATA[Definições Básicas]]></title><description><![CDATA[ 
  <br><br>
 <br>Coleção de dados relacionados
@@ -445,24 +651,7 @@ Baixo Nível
 <br>Em qualquer ponto no tempo, o banco de dados possui um estado atual
 <br>O SGBD é parcialmente responsável por garantir que todo estado do banco de dados seja um estado válido
 <br>Um estado do banco de dados é chamado de extensão do esquema
-]]></description><link>av1\modelo-de-dados\modelos-de-dados,-esquemas-e-instâncias.html</link><guid isPermaLink="false">AV1/Modelo de dados/Modelos de dados, Esquemas e Instâncias.md</guid><pubDate>Mon, 24 Mar 2025 20:36:39 GMT</pubDate></item><item><title><![CDATA[Quando Não Usar um SGBD]]></title><description><![CDATA[ 
- <br>
-<br>Existem algumas situações em que um SGBD pode envolver custos adicionais desnecessários:
-
-<br>Alto investimento inicial em hardware, software e treinamento
-<br>Generalidade que um SGBD oferece para a definição e processamento de dados
-<br>Esforço adicional para oferecer funções de segurança, controle de ocorrência, recuperação e integridade
-
-
-<br>Portanto, pode ser mais desejável usar arquivos comuns sob as seguintes circunstâncias:
-
-<br>Aplicações de banco de dados simples e bem definidas, onde não se esperam muitas mudanças
-<br>Requisitos rigorosos, em tempo real, para alguns programas de aplicação que não podem ser atendidos em decorrência de sobrecarga de operações em um SGBD
-<br>Sistemas embarcados com capacidade de armazenamento limitada
-<br>Não há acesso de múltiplos usuários aos dados
-
-
-]]></description><link>av1\não-usar-sgbd\quando-não-usar-um-sgbd.html</link><guid isPermaLink="false">AV1/Não Usar SGBD/Quando Não Usar um SGBD.md</guid><pubDate>Wed, 26 Mar 2025 00:55:45 GMT</pubDate></item><item><title><![CDATA[Armazenamento Persistente]]></title><description><![CDATA[ 
+]]></description><link>av1\modelo-de-dados\modelos-de-dados,-esquemas-e-instâncias.html</link><guid isPermaLink="false">AV1/Modelo de dados/Modelos de dados, Esquemas e Instâncias.md</guid><pubDate>Mon, 24 Mar 2025 20:36:39 GMT</pubDate></item><item><title><![CDATA[Armazenamento Persistente]]></title><description><![CDATA[ 
  ]]></description><link>av1\vantagens-sgbd\armazenamento-persistente.html</link><guid isPermaLink="false">AV1/Vantagens SGBD/Armazenamento Persistente.md</guid><pubDate>Sat, 22 Mar 2025 19:14:28 GMT</pubDate></item><item><title><![CDATA[Backup e Recuperação]]></title><description><![CDATA[ 
  ]]></description><link>av1\vantagens-sgbd\backup-e-recuperação.html</link><guid isPermaLink="false">AV1/Vantagens SGBD/Backup e Recuperação.md</guid><pubDate>Sat, 22 Mar 2025 19:14:28 GMT</pubDate></item><item><title><![CDATA[Controle de Redundância]]></title><description><![CDATA[ 
  ]]></description><link>av1\vantagens-sgbd\controle-de-redundância.html</link><guid isPermaLink="false">AV1/Vantagens SGBD/Controle de Redundância.md</guid><pubDate>Sat, 22 Mar 2025 19:14:28 GMT</pubDate></item><item><title><![CDATA[Estruturas de Armazenamento e Processamento Eficiente de Consulta]]></title><description><![CDATA[ 
@@ -472,73 +661,6 @@ Baixo Nível
  ]]></description><link>av1\vantagens-sgbd\múltiplas-interfaces-de-usuário.html</link><guid isPermaLink="false">AV1/Vantagens SGBD/Múltiplas Interfaces de Usuário.md</guid><pubDate>Sat, 22 Mar 2025 19:14:28 GMT</pubDate></item><item><title><![CDATA[Permissão de Dedução e Ações usando Regras e Gatilhos]]></title><description><![CDATA[ 
  ]]></description><link>av1\vantagens-sgbd\permissão-de-dedução-e-ações-usando-regras-e-gatilhos.html</link><guid isPermaLink="false">AV1/Vantagens SGBD/Permissão de Dedução e Ações usando Regras e Gatilhos.md</guid><pubDate>Sat, 22 Mar 2025 19:14:28 GMT</pubDate></item><item><title><![CDATA[Representação de Relacionamentos Complexos entre os Dados]]></title><description><![CDATA[ 
  ]]></description><link>av1\vantagens-sgbd\representação-de-relacionamentos-complexos-entre-os-dados.html</link><guid isPermaLink="false">AV1/Vantagens SGBD/Representação de Relacionamentos Complexos entre os Dados.md</guid><pubDate>Sat, 22 Mar 2025 19:14:28 GMT</pubDate></item><item><title><![CDATA[Restrição de Acesso Não Autorizado]]></title><description><![CDATA[ 
- ]]></description><link>av1\vantagens-sgbd\restrição-de-acesso-não-autorizado.html</link><guid isPermaLink="false">AV1/Vantagens SGBD/Restrição de Acesso Não Autorizado.md</guid><pubDate>Sat, 22 Mar 2025 19:14:28 GMT</pubDate></item><item><title><![CDATA[Vantagens da Abordagem de SGBD]]></title><description><![CDATA[ 
- <br><br>
-<br>No desenvolvimento de software tradicional com processamento de arquivos, cada grupo de usuários mantém seus próprios arquivos para tratar das suas aplicações de processamento de dados
-<br>Essa redundância em armazenar os mesmos dados várias vezes pode ocasionar vários problemas:
-
-<br>Duplicação de esforço
-<br>Desperdício de espaço de armazenamento
-<br>Possibilidade de inconsistência entre arquivos que representam os mesmos dados
-
-
-<br>Às vezes, é necessário o uso de redundância controlada para melhorar o desempenho das consultas
-<br><br>
-<br>Um SGBD deve oferecer um subsistema de segurança e autorização, disponível para uso do DBA para criar contas e especificar restrições
-<br>Relaciona-se diretamente com o conceito de software privilegiado
-<br><br>
-<br>Bancos de dados podem ser usados para oferecer armazenamento permanente para objetos e estruturas de dados do programa
-<br>Um dos principais motivos para se usar sistemas de banco de dados orientados a objeto
-<br>Um objeto é considerado persistente quando sobrevive ao término da execução e pode ser recuperado posteriormente por outro programa
-<br>Os sistemas tradicionais normalmente sofrem do problema de divergência de impedância, pois as estruturas de dados fornecidas pelo SGBD eram incompatíveis com as estruturas da linguagem de programação
-<br><br>
-<br>Sistemas de banco de dados precisam oferecer capacidades para executar consultas e atualizações de maneira eficiente
-<br>Para isso, arquivos auxiliares chamados de índices são comumente utilizados
-<br>O SGBD normalmente tem um módulo de buffering ou caching que mantém partes do banco de dados nos buffers de memória principais
-<br>O módulo de processamento e otimização de consulta do SGBD é responsável por escolher um plano de execução eficiente para cada consulta com base nas estruturas de armazenamento existentes
-<br><br>
-<br>Um SGBD precisa oferecer facilidades para se recuperar de falhas de hardware ou software
-<br>O sistema de backup e recuperação do SGBD é responsável pela recuperação
-<br><br>
-<br>Visam reduzir a limitação de uso, dados os diferentes níveis de conhecimento técnico dos usuários
-<br>As interfaces no estilo de formulários e controladas por menus normalmente são conhecidas como interfaces gráficas de usuário (GUIs)
-<br>Geralmente envolve o uso de uma linguagem/ambiente especializado para criação de GUIs
-<br><br><br>
-<br>A maioria das aplicações de banco de dados possui algumas restrições de integridade
-<br>O tipo mais simples de restrição envolve especificar um tipo de dados para cada item de dados
-<br>Outro tipo de restrição especifica unicidade sobre valores de item de dados, como definição de valores obrigatórios e/ou únicos
-
-<br>Conhecido como restrição de chave ou unicidade
-
-
-<br>São derivadas do significado ou da semântica dos dados e do que eles representam
-<br>É responsabilidade dos projetistas do banco de dados identificar restrições de integridade durante o projeto
-<br>Um item de dados pode ser inserido erroneamente e ainda satisfazer as restrições de integridade especificadas
-<br>Regras que pertencem a um modelo de dados específico são chamadas de regras inerentes ao modelo de dados
-<br><br>
-<br>Alguns sistemas de banco de dados oferecem capacidades para definir regras de dedução a fim de inferir novas informações com base nos fatos armazenados no banco de dados
-<br>Os sistemas que oferecem tais capacidades são chamados de sistemas de banco de dados dedutivos
-<br>Nos sistemas de banco de dados relacionais mais atuais, é possível associar gatilhos/triggers a tabelas
-
-<br>Gatilho - Forma de regra ativada por atualizações na tabela, que resulta na realização de operações adicionais
-
-
-<br>Procedimentos mais elaborados para impor regras são popularmente chamados de procedimentos armazenados (stored procedures)
-<br>A funcionalidade mais poderosa é fornecida por sistemas de banco de dados ativos, que oferecem regras ativas que automaticamente iniciam ações quando ocorrem certos eventos e condições
-<br><br><br>
-<br>O DBA pode garantir padrões em um ambiente de banco de dados centralizado mais facilmente do que em um ambiente no qual cada grupo de usuários tem controle dos seus próprios arquivos de dados e software
-<br><br>
-<br>O desenvolvimento de uma nova aplicação - como a recuperação de certos dados para geração de um novo relatório - leva um tempo consideravelmente curto
-<br>Estima-se que o tempo de desenvolvimento usando um SGBD seja um sexto a um quarto daquele para um sistema de arquivo tradicional
-<br><br>
-<br>Pode, em algum momento, ser necessário alterar a estrutura de um banco de dados à medida em que os requisitos mudam
-<br>Os SGBDs modernos permitem certos tipos de mudanças evolutivas na estrutura sem afetar os dados armazenados e os programas de aplicação existentes
-<br><br>
-<br>Um SGBD torna o banco de dados disponível a todos os usuários
-<br>A disponibilidade de informações atualizadas é possibilitada pelos subsistemas de controle de ocorrência e recuperação de um SGBD
-<br><br>
-<br>Permite a consolidação de dados e aplicações, reduzindo a quantidade de sobreposição desperdiçada entre as atividades do pessoal de processamento de dados em diferentes projetos/departamentos, bem como as redundâncias entre aplicações
-<br>Reduz os custos gerais de operação e gerenciamento
-]]></description><link>av1\vantagens-sgbd\vantagens-da-abordagem-de-sgbd.html</link><guid isPermaLink="false">AV1/Vantagens SGBD/Vantagens da Abordagem de SGBD.md</guid><pubDate>Wed, 26 Mar 2025 00:55:45 GMT</pubDate></item><item><title><![CDATA[AV1]]></title><description><![CDATA[ 
+ ]]></description><link>av1\vantagens-sgbd\restrição-de-acesso-não-autorizado.html</link><guid isPermaLink="false">AV1/Vantagens SGBD/Restrição de Acesso Não Autorizado.md</guid><pubDate>Sat, 22 Mar 2025 19:14:28 GMT</pubDate></item><item><title><![CDATA[AV1]]></title><description><![CDATA[ 
  <br><br><br><br><br><br><br><br><br><br><br>]]></description><link>av1\av1.html</link><guid isPermaLink="false">AV1/AV1.md</guid><pubDate>Thu, 20 Mar 2025 15:12:48 GMT</pubDate></item><item><title><![CDATA[<a data-href="AV1" href="av1/av1.html" class="internal-link" target="_self" rel="noopener nofollow">AV1</a>]]></title><description><![CDATA[ 
  <br><br>]]></description><link>assuntos.html</link><guid isPermaLink="false">Assuntos.md</guid><pubDate>Mon, 24 Mar 2025 20:37:38 GMT</pubDate></item></channel></rss>

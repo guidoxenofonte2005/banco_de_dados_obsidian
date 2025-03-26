@@ -1,6 +1,6 @@
 {
   "vaultName": "BANCO DE DADOS",
-  "lastExport": 1742950537665,
+  "lastExport": 1742962918008,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -55,7 +55,25 @@
     "AV1/Características/Natureza de Autodescrição.md",
     "AV1/Características/Processamento de Transação Multiusuário.md",
     "AV1/Características/Suporte para Múltiplas Visões.md",
+    "AV1/Classificação/Locais/Centralizado.md",
+    "AV1/Classificação/Locais/Distribuído.md",
+    "AV1/Classificação/Locais/Heterogêneo.md",
+    "AV1/Classificação/Locais/Homogêneo.md",
+    "AV1/Classificação/Locais/Número de Locais.md",
+    "AV1/Classificação/Modelo/Chave-Valor.md",
+    "AV1/Classificação/Modelo/Coluna.md",
+    "AV1/Classificação/Modelo/Documento.md",
+    "AV1/Classificação/Modelo/Grafo.md",
+    "AV1/Classificação/Modelo/Legados.md",
+    "AV1/Classificação/Modelo/Modelo de Dados.md",
+    "AV1/Classificação/Modelo/Objeto.md",
+    "AV1/Classificação/Modelo/Relacional.md",
+    "AV1/Classificação/Modelo/XML.md",
+    "AV1/Classificação/Usuários/Monousuário.md",
+    "AV1/Classificação/Usuários/Multiusuário.md",
+    "AV1/Classificação/Usuários/Número de Usuários.md",
     "AV1/Classificação/Classificação dos SGBDs.md",
+    "AV1/Classificação/Custo.md",
     "AV1/Definições/Banco de Dados.md",
     "AV1/Definições/Definições Básicas.md",
     "AV1/Definições/Sistema de Gerenciamento de Banco de Dados (SGDB).md",
@@ -269,8 +287,8 @@
       "dependencies": []
     },
     "AV1/Ambiente/Ambiente do Sistema de Banco de Dados.md": {
-      "modifiedTime": 1742950537665,
-      "sourceSize": 5165,
+      "modifiedTime": 1742962918008,
+      "sourceSize": 5737,
       "exportedPath": "av1/ambiente/ambiente-do-sistema-de-banco-de-dados.html",
       "dependencies": []
     },
@@ -281,8 +299,8 @@
       "dependencies": []
     },
     "AV1/Arquitetura de Três Esquemas/Independência/Independência de Dados.md": {
-      "modifiedTime": 1742950537665,
-      "sourceSize": 53,
+      "modifiedTime": 1742962918008,
+      "sourceSize": 76,
       "exportedPath": "av1/arquitetura-de-três-esquemas/independência/independência-de-dados.html",
       "dependencies": []
     },
@@ -335,8 +353,8 @@
       "dependencies": []
     },
     "AV1/Arquiteturas Centralizadas/Arquiteturas Centralizadas e Cliente Servidor.md": {
-      "modifiedTime": 1742950537665,
-      "sourceSize": 213,
+      "modifiedTime": 1742962918008,
+      "sourceSize": 5893,
       "exportedPath": "av1/arquiteturas-centralizadas/arquiteturas-centralizadas-e-cliente-servidor.html",
       "dependencies": []
     },
@@ -371,7 +389,7 @@
       "dependencies": []
     },
     "AV1/Atores/Atores/Atores em Cena.md": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 174,
       "exportedPath": "av1/atores/atores/atores-em-cena.html",
       "dependencies": []
@@ -389,7 +407,7 @@
       "dependencies": []
     },
     "AV1/Atores/Bastidores/Bastidores.md": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 129,
       "exportedPath": "av1/atores/bastidores/bastidores.html",
       "dependencies": []
@@ -425,7 +443,7 @@
       "dependencies": []
     },
     "AV1/Características/Características da Abordagem de Banco de Dados.md": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 4261,
       "exportedPath": "av1/características/características-da-abordagem-de-banco-de-dados.html",
       "dependencies": []
@@ -461,8 +479,8 @@
       "dependencies": []
     },
     "AV1/Classificação/Classificação dos SGBDs.md": {
-      "modifiedTime": 1742950537665,
-      "sourceSize": 23,
+      "modifiedTime": 1742962918008,
+      "sourceSize": 3213,
       "exportedPath": "av1/classificação/classificação-dos-sgbds.html",
       "dependencies": []
     },
@@ -653,7 +671,7 @@
       "dependencies": []
     },
     "AV1/Não Usar SGBD/Quando Não Usar um SGBD.md": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 843,
       "exportedPath": "av1/não-usar-sgbd/quando-não-usar-um-sgbd.html",
       "dependencies": []
@@ -719,7 +737,7 @@
       "dependencies": []
     },
     "AV1/Vantagens SGBD/Vantagens da Abordagem de SGBD.md": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 5998,
       "exportedPath": "av1/vantagens-sgbd/vantagens-da-abordagem-de-sgbd.html",
       "dependencies": []
@@ -731,7 +749,7 @@
       "dependencies": []
     },
     "AV2/AV2.md": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 23,
       "exportedPath": "av2/av2.html",
       "dependencies": []
@@ -743,183 +761,291 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1742950537665,
-      "sourceSize": 50394,
+      "modifiedTime": 1742962918008,
+      "sourceSize": 58357,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1742950537665,
-      "sourceSize": 10509,
+      "modifiedTime": 1742962918008,
+      "sourceSize": 11957,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 137466,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 41466,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 279,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 2830,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1742950537665,
+      "modifiedTime": 1742962918008,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "AV1/Classificação/Locais/Centralizado.md": {
+      "modifiedTime": 1742962918008,
+      "sourceSize": 0,
+      "exportedPath": "av1/classificação/locais/centralizado.html",
+      "dependencies": []
+    },
+    "AV1/Classificação/Locais/Distribuído.md": {
+      "modifiedTime": 1742962918008,
+      "sourceSize": 54,
+      "exportedPath": "av1/classificação/locais/distribuído.html",
+      "dependencies": []
+    },
+    "AV1/Classificação/Locais/Heterogêneo.md": {
+      "modifiedTime": 1742962918008,
+      "sourceSize": 0,
+      "exportedPath": "av1/classificação/locais/heterogêneo.html",
+      "dependencies": []
+    },
+    "AV1/Classificação/Locais/Homogêneo.md": {
+      "modifiedTime": 1742962918008,
+      "sourceSize": 0,
+      "exportedPath": "av1/classificação/locais/homogêneo.html",
+      "dependencies": []
+    },
+    "AV1/Classificação/Locais/Número de Locais.md": {
+      "modifiedTime": 1742962918008,
+      "sourceSize": 56,
+      "exportedPath": "av1/classificação/locais/número-de-locais.html",
+      "dependencies": []
+    },
+    "AV1/Classificação/Modelo/Chave-Valor.md": {
+      "modifiedTime": 1742962918008,
+      "sourceSize": 0,
+      "exportedPath": "av1/classificação/modelo/chave-valor.html",
+      "dependencies": []
+    },
+    "AV1/Classificação/Modelo/Coluna.md": {
+      "modifiedTime": 1742962918008,
+      "sourceSize": 0,
+      "exportedPath": "av1/classificação/modelo/coluna.html",
+      "dependencies": []
+    },
+    "AV1/Classificação/Modelo/Documento.md": {
+      "modifiedTime": 1742962918008,
+      "sourceSize": 0,
+      "exportedPath": "av1/classificação/modelo/documento.html",
+      "dependencies": []
+    },
+    "AV1/Classificação/Modelo/Grafo.md": {
+      "modifiedTime": 1742962918008,
+      "sourceSize": 0,
+      "exportedPath": "av1/classificação/modelo/grafo.html",
+      "dependencies": []
+    },
+    "AV1/Classificação/Modelo/Legados.md": {
+      "modifiedTime": 1742962918008,
+      "sourceSize": 0,
+      "exportedPath": "av1/classificação/modelo/legados.html",
+      "dependencies": []
+    },
+    "AV1/Classificação/Modelo/Modelo de Dados.md": {
+      "modifiedTime": 1742962918008,
+      "sourceSize": 119,
+      "exportedPath": "av1/classificação/modelo/modelo-de-dados.html",
+      "dependencies": []
+    },
+    "AV1/Classificação/Modelo/Objeto.md": {
+      "modifiedTime": 1742962918008,
+      "sourceSize": 0,
+      "exportedPath": "av1/classificação/modelo/objeto.html",
+      "dependencies": []
+    },
+    "AV1/Classificação/Modelo/Relacional.md": {
+      "modifiedTime": 1742962918008,
+      "sourceSize": 0,
+      "exportedPath": "av1/classificação/modelo/relacional.html",
+      "dependencies": []
+    },
+    "AV1/Classificação/Modelo/XML.md": {
+      "modifiedTime": 1742962918008,
+      "sourceSize": 0,
+      "exportedPath": "av1/classificação/modelo/xml.html",
+      "dependencies": []
+    },
+    "AV1/Classificação/Usuários/Monousuário.md": {
+      "modifiedTime": 1742962918008,
+      "sourceSize": 0,
+      "exportedPath": "av1/classificação/usuários/monousuário.html",
+      "dependencies": []
+    },
+    "AV1/Classificação/Usuários/Multiusuário.md": {
+      "modifiedTime": 1742962918008,
+      "sourceSize": 0,
+      "exportedPath": "av1/classificação/usuários/multiusuário.html",
+      "dependencies": []
+    },
+    "AV1/Classificação/Usuários/Número de Usuários.md": {
+      "modifiedTime": 1742962918008,
+      "sourceSize": 57,
+      "exportedPath": "av1/classificação/usuários/número-de-usuários.html",
+      "dependencies": []
+    },
+    "AV1/Classificação/Custo.md": {
+      "modifiedTime": 1742962918008,
+      "sourceSize": 0,
+      "exportedPath": "av1/classificação/custo.html",
       "dependencies": []
     }
   }

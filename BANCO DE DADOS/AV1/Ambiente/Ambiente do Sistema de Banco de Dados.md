@@ -43,4 +43,6 @@ node_size: "5"
 	- Também pode ser chamado de *repositório de informação*
 	- Essa informação pode ser acessada diretamente pelos usuários ou pelo DBA
 	- É semelhante ao catálogo do SGBD, mas inclui uma variedade maior de informações e é acessado principalmente pelos usuários
-- **Ambientes de Desenvolvimento de Aplicação** oferecem um ambiente para desenvolver aplicações de banco de dados, 
+- **Ambientes de Desenvolvimento de Aplicação** oferecem um ambiente para desenvolver aplicações de banco de dados, incluindo estruturas que ajudam em muitas facetas dos sistemas, como projeto de banco de dados, desenvolvimento de GUI, consulta e atualização, etc.
+- O SGBD também precisa realizar a interface com o **software de comunicações**, responsável por permitir que os usuários em locais remotos do sistema de banco de dados acessem-no por meio de terminais de computador, estações de trabalho ou computadores pessoais
+- Muitos sistemas de banco de dados do mercado possuem pacotes de comunicação que trabalham com o SGBD. O nome dado ao sistema integrado é **DB/DC**

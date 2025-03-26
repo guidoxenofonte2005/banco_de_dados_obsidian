@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"AV1/Não Usar SGBD\"",
@@ -90,11 +90,11 @@
   "textFadeMultiplier": -1.5,
   "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 2.19270833333333,
-  "collapse-forces": true,
-  "centerStrength": 0.151041666666667,
-  "repelStrength": 16.3541666666667,
-  "linkStrength": 0.984375,
-  "linkDistance": 409,
-  "scale": 0.05666114896357438,
+  "collapse-forces": false,
+  "centerStrength": 0.063169164882227,
+  "repelStrength": 16.6809421841542,
+  "linkStrength": 0.822626695217702,
+  "linkDistance": 462,
+  "scale": 0.03724805892854979,
   "close": true
 }

@@ -45,6 +45,8 @@
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "C:\\\\Users\\guido\\Desktop\\obsidian\\BANCO DE DADOS\\banco_de_dados_obsidian\\SITE",
   "filesToExport": [
-    []
+    [
+      "all"
+    ]
   ]
 }
