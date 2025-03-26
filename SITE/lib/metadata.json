@@ -1,0 +1,926 @@
+{
+  "vaultName": "BANCO DE DADOS",
+  "lastExport": 1742950537665,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "AV1/Ambiente/Módulos/Compilador da DDL.md",
+    "AV1/Ambiente/Módulos/Compilador de Consulta.md",
+    "AV1/Ambiente/Módulos/Interface de Consulta Interativa.md",
+    "AV1/Ambiente/Módulos/Módulo de Gerenciamento de Buffer.md",
+    "AV1/Ambiente/Módulos/Módulo Gerenciador de Dados Armazenados.md",
+    "AV1/Ambiente/Módulos/Módulos Componentes do SGBD.md",
+    "AV1/Ambiente/Módulos/Otimizador de Consulta.md",
+    "AV1/Ambiente/Módulos/Pré-Compilador.md",
+    "AV1/Ambiente/Módulos/Processador de BD em Tempo de Execução.md",
+    "AV1/Ambiente/Módulos/Programa Cliente.md",
+    "AV1/Ambiente/Módulos/Servidor de Aplicações.md",
+    "AV1/Ambiente/Módulos/Sistema Operacional.md",
+    "AV1/Ambiente/Utilitários/Backup.md",
+    "AV1/Ambiente/Utilitários/Carga.md",
+    "AV1/Ambiente/Utilitários/Monitoração de Desempenho.md",
+    "AV1/Ambiente/Utilitários/Reorganização do Armazenamento.md",
+    "AV1/Ambiente/Utilitários/Utilitários do Sistema.md",
+    "AV1/Ambiente/Ambiente do Sistema de Banco de Dados.md",
+    "AV1/Ambiente/Ferramentas, Ambientes de Aplicação e Facilidades de Comunicações.md",
+    "AV1/Arquitetura de Três Esquemas/Independência/Independência de Dados.md",
+    "AV1/Arquitetura de Três Esquemas/Independência/Independência Física.md",
+    "AV1/Arquitetura de Três Esquemas/Independência/Independência Lógica.md",
+    "AV1/Arquitetura de Três Esquemas/Três Esquemas/Arquitetura de Três Esquemas.md",
+    "AV1/Arquitetura de Três Esquemas/Três Esquemas/Nível Conceitual.md",
+    "AV1/Arquitetura de Três Esquemas/Três Esquemas/Nível Externo.md",
+    "AV1/Arquitetura de Três Esquemas/Três Esquemas/Nível Interno.md",
+    "AV1/Arquitetura de Três Esquemas/Arquitetura de Três Esquemas e Independência de Dados.md",
+    "AV1/Arquiteturas Centralizadas/Arquitetura Centralizada.md",
+    "AV1/Arquiteturas Centralizadas/Arquiteturas Centralizadas e Cliente Servidor.md",
+    "AV1/Arquiteturas Centralizadas/Arquiteturas Cliente e Servidor Básicas.md",
+    "AV1/Arquiteturas Centralizadas/Arquiteturas de Duas Camadas.md",
+    "AV1/Arquiteturas Centralizadas/Arquiteturas de Três Camadas e n Camadas para Aplicações Web.md",
+    "AV1/Atores/Atores/Administradores do Banco de Dados.md",
+    "AV1/Atores/Atores/Analistas de Sistemas e Programadores de Aplicações.md",
+    "AV1/Atores/Atores/Atores em Cena.md",
+    "AV1/Atores/Atores/Projetistas de Banco de Dados.md",
+    "AV1/Atores/Atores/Usuários Finais.md",
+    "AV1/Atores/Bastidores/Bastidores.md",
+    "AV1/Atores/Bastidores/Desenvolvedores de Ferramentas.md",
+    "AV1/Atores/Bastidores/Operadores e Manutenção.md",
+    "AV1/Atores/Bastidores/Projetistas e Implementadores de SGBD.md",
+    "AV1/Atores/Atores em Cena e Bastidores.md",
+    "AV1/Características/Abstração de Dados.md",
+    "AV1/Características/Características da Abordagem de Banco de Dados.md",
+    "AV1/Características/Compartilhamento de Dados.md",
+    "AV1/Características/Isolamento entre Programas e Dados.md",
+    "AV1/Características/Natureza de Autodescrição.md",
+    "AV1/Características/Processamento de Transação Multiusuário.md",
+    "AV1/Características/Suporte para Múltiplas Visões.md",
+    "AV1/Classificação/Classificação dos SGBDs.md",
+    "AV1/Definições/Banco de Dados.md",
+    "AV1/Definições/Definições Básicas.md",
+    "AV1/Definições/Sistema de Gerenciamento de Banco de Dados (SGDB).md",
+    "AV1/Linguagens/Interfaces/DBA.md",
+    "AV1/Linguagens/Interfaces/Formulário.md",
+    "AV1/Linguagens/Interfaces/GUI.md",
+    "AV1/Linguagens/Interfaces/Interfaces do SGBD.md",
+    "AV1/Linguagens/Interfaces/Linguagem Natural.md",
+    "AV1/Linguagens/Interfaces/Menu.md",
+    "AV1/Linguagens/Interfaces/Mobile.md",
+    "AV1/Linguagens/Interfaces/Pesquisa baseada em Palavra-Chave.md",
+    "AV1/Linguagens/Interfaces/Usuários Paramétricos.md",
+    "AV1/Linguagens/Interfaces/Voz.md",
+    "AV1/Linguagens/Linguagens/DDL.md",
+    "AV1/Linguagens/Linguagens/DML.md",
+    "AV1/Linguagens/Linguagens/Linguagens do SGBD.md",
+    "AV1/Linguagens/Linguagens/SDL.md",
+    "AV1/Linguagens/Linguagens/VDL.md",
+    "AV1/Linguagens/Linguagens e Interfaces.md",
+    "AV1/Modelo de dados/Categorias de Modelos/Alto Nível.md",
+    "AV1/Modelo de dados/Categorias de Modelos/Autodescritivos.md",
+    "AV1/Modelo de dados/Categorias de Modelos/Baixo Nível.md",
+    "AV1/Modelo de dados/Categorias de Modelos/Baseados em Registro.md",
+    "AV1/Modelo de dados/Categorias de Modelos/Categorias de Modelos de Dados.md",
+    "AV1/Modelo de dados/Categorias de Modelos/Dados de Objeto.md",
+    "AV1/Modelo de dados/Categorias de Modelos/Hierárquicos.md",
+    "AV1/Modelo de dados/Categorias de Modelos/Rede.md",
+    "AV1/Modelo de dados/Categorias de Modelos/Relacionais.md",
+    "AV1/Modelo de dados/Categorias de Modelos/Representativos.md",
+    "AV1/Modelo de dados/Esquemas/Esquemas, Instâncias e Estados.md",
+    "AV1/Modelo de dados/Modelos de dados, Esquemas e Instâncias.md",
+    "AV1/Não Usar SGBD/Quando Não Usar um SGBD.md",
+    "AV1/Vantagens SGBD/Armazenamento Persistente.md",
+    "AV1/Vantagens SGBD/Backup e Recuperação.md",
+    "AV1/Vantagens SGBD/Controle de Redundância.md",
+    "AV1/Vantagens SGBD/Estruturas de Armazenamento e Processamento Eficiente de Consulta.md",
+    "AV1/Vantagens SGBD/Implicações Adicionais.md",
+    "AV1/Vantagens SGBD/Imposição de Restrições de Integridade.md",
+    "AV1/Vantagens SGBD/Múltiplas Interfaces de Usuário.md",
+    "AV1/Vantagens SGBD/Permissão de Dedução e Ações usando Regras e Gatilhos.md",
+    "AV1/Vantagens SGBD/Representação de Relacionamentos Complexos entre os Dados.md",
+    "AV1/Vantagens SGBD/Restrição de Acesso Não Autorizado.md",
+    "AV1/Vantagens SGBD/Vantagens da Abordagem de SGBD.md",
+    "AV1/AV1.md",
+    "AV2/AV2.md",
+    "Assuntos.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "AV1/Ambiente/Módulos/Compilador da DDL.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/ambiente/módulos/compilador-da-ddl.html",
+      "dependencies": []
+    },
+    "AV1/Ambiente/Módulos/Compilador de Consulta.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/ambiente/módulos/compilador-de-consulta.html",
+      "dependencies": []
+    },
+    "AV1/Ambiente/Módulos/Interface de Consulta Interativa.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/ambiente/módulos/interface-de-consulta-interativa.html",
+      "dependencies": []
+    },
+    "AV1/Ambiente/Módulos/Módulo de Gerenciamento de Buffer.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/ambiente/módulos/módulo-de-gerenciamento-de-buffer.html",
+      "dependencies": []
+    },
+    "AV1/Ambiente/Módulos/Módulo Gerenciador de Dados Armazenados.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/ambiente/módulos/módulo-gerenciador-de-dados-armazenados.html",
+      "dependencies": []
+    },
+    "AV1/Ambiente/Módulos/Módulos Componentes do SGBD.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 358,
+      "exportedPath": "av1/ambiente/módulos/módulos-componentes-do-sgbd.html",
+      "dependencies": []
+    },
+    "AV1/Ambiente/Módulos/Otimizador de Consulta.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/ambiente/módulos/otimizador-de-consulta.html",
+      "dependencies": []
+    },
+    "AV1/Ambiente/Módulos/Pré-Compilador.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/ambiente/módulos/pré-compilador.html",
+      "dependencies": []
+    },
+    "AV1/Ambiente/Módulos/Processador de BD em Tempo de Execução.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/ambiente/módulos/processador-de-bd-em-tempo-de-execução.html",
+      "dependencies": []
+    },
+    "AV1/Ambiente/Módulos/Programa Cliente.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/ambiente/módulos/programa-cliente.html",
+      "dependencies": []
+    },
+    "AV1/Ambiente/Módulos/Servidor de Aplicações.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/ambiente/módulos/servidor-de-aplicações.html",
+      "dependencies": []
+    },
+    "AV1/Ambiente/Módulos/Sistema Operacional.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/ambiente/módulos/sistema-operacional.html",
+      "dependencies": []
+    },
+    "AV1/Ambiente/Utilitários/Backup.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/ambiente/utilitários/backup.html",
+      "dependencies": []
+    },
+    "AV1/Ambiente/Utilitários/Carga.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/ambiente/utilitários/carga.html",
+      "dependencies": []
+    },
+    "AV1/Ambiente/Utilitários/Monitoração de Desempenho.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/ambiente/utilitários/monitoração-de-desempenho.html",
+      "dependencies": []
+    },
+    "AV1/Ambiente/Utilitários/Reorganização do Armazenamento.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/ambiente/utilitários/reorganização-do-armazenamento.html",
+      "dependencies": []
+    },
+    "AV1/Ambiente/Utilitários/Utilitários do Sistema.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 112,
+      "exportedPath": "av1/ambiente/utilitários/utilitários-do-sistema.html",
+      "dependencies": []
+    },
+    "AV1/Ambiente/Ambiente do Sistema de Banco de Dados.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 5165,
+      "exportedPath": "av1/ambiente/ambiente-do-sistema-de-banco-de-dados.html",
+      "dependencies": []
+    },
+    "AV1/Ambiente/Ferramentas, Ambientes de Aplicação e Facilidades de Comunicações.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/ambiente/ferramentas,-ambientes-de-aplicação-e-facilidades-de-comunicações.html",
+      "dependencies": []
+    },
+    "AV1/Arquitetura de Três Esquemas/Independência/Independência de Dados.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 53,
+      "exportedPath": "av1/arquitetura-de-três-esquemas/independência/independência-de-dados.html",
+      "dependencies": []
+    },
+    "AV1/Arquitetura de Três Esquemas/Independência/Independência Física.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/arquitetura-de-três-esquemas/independência/independência-física.html",
+      "dependencies": []
+    },
+    "AV1/Arquitetura de Três Esquemas/Independência/Independência Lógica.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/arquitetura-de-três-esquemas/independência/independência-lógica.html",
+      "dependencies": []
+    },
+    "AV1/Arquitetura de Três Esquemas/Três Esquemas/Arquitetura de Três Esquemas.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 82,
+      "exportedPath": "av1/arquitetura-de-três-esquemas/três-esquemas/arquitetura-de-três-esquemas.html",
+      "dependencies": []
+    },
+    "AV1/Arquitetura de Três Esquemas/Três Esquemas/Nível Conceitual.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/arquitetura-de-três-esquemas/três-esquemas/nível-conceitual.html",
+      "dependencies": []
+    },
+    "AV1/Arquitetura de Três Esquemas/Três Esquemas/Nível Externo.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/arquitetura-de-três-esquemas/três-esquemas/nível-externo.html",
+      "dependencies": []
+    },
+    "AV1/Arquitetura de Três Esquemas/Três Esquemas/Nível Interno.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/arquitetura-de-três-esquemas/três-esquemas/nível-interno.html",
+      "dependencies": []
+    },
+    "AV1/Arquitetura de Três Esquemas/Arquitetura de Três Esquemas e Independência de Dados.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 4087,
+      "exportedPath": "av1/arquitetura-de-três-esquemas/arquitetura-de-três-esquemas-e-independência-de-dados.html",
+      "dependencies": []
+    },
+    "AV1/Arquiteturas Centralizadas/Arquitetura Centralizada.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/arquiteturas-centralizadas/arquitetura-centralizada.html",
+      "dependencies": []
+    },
+    "AV1/Arquiteturas Centralizadas/Arquiteturas Centralizadas e Cliente Servidor.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 213,
+      "exportedPath": "av1/arquiteturas-centralizadas/arquiteturas-centralizadas-e-cliente-servidor.html",
+      "dependencies": []
+    },
+    "AV1/Arquiteturas Centralizadas/Arquiteturas Cliente e Servidor Básicas.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/arquiteturas-centralizadas/arquiteturas-cliente-e-servidor-básicas.html",
+      "dependencies": []
+    },
+    "AV1/Arquiteturas Centralizadas/Arquiteturas de Duas Camadas.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/arquiteturas-centralizadas/arquiteturas-de-duas-camadas.html",
+      "dependencies": []
+    },
+    "AV1/Arquiteturas Centralizadas/Arquiteturas de Três Camadas e n Camadas para Aplicações Web.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/arquiteturas-centralizadas/arquiteturas-de-três-camadas-e-n-camadas-para-aplicações-web.html",
+      "dependencies": []
+    },
+    "AV1/Atores/Atores/Administradores do Banco de Dados.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/atores/atores/administradores-do-banco-de-dados.html",
+      "dependencies": []
+    },
+    "AV1/Atores/Atores/Analistas de Sistemas e Programadores de Aplicações.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/atores/atores/analistas-de-sistemas-e-programadores-de-aplicações.html",
+      "dependencies": []
+    },
+    "AV1/Atores/Atores/Atores em Cena.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 174,
+      "exportedPath": "av1/atores/atores/atores-em-cena.html",
+      "dependencies": []
+    },
+    "AV1/Atores/Atores/Projetistas de Banco de Dados.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/atores/atores/projetistas-de-banco-de-dados.html",
+      "dependencies": []
+    },
+    "AV1/Atores/Atores/Usuários Finais.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/atores/atores/usuários-finais.html",
+      "dependencies": []
+    },
+    "AV1/Atores/Bastidores/Bastidores.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 129,
+      "exportedPath": "av1/atores/bastidores/bastidores.html",
+      "dependencies": []
+    },
+    "AV1/Atores/Bastidores/Desenvolvedores de Ferramentas.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/atores/bastidores/desenvolvedores-de-ferramentas.html",
+      "dependencies": []
+    },
+    "AV1/Atores/Bastidores/Operadores e Manutenção.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/atores/bastidores/operadores-e-manutenção.html",
+      "dependencies": []
+    },
+    "AV1/Atores/Bastidores/Projetistas e Implementadores de SGBD.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/atores/bastidores/projetistas-e-implementadores-de-sgbd.html",
+      "dependencies": []
+    },
+    "AV1/Atores/Atores em Cena e Bastidores.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 2760,
+      "exportedPath": "av1/atores/atores-em-cena-e-bastidores.html",
+      "dependencies": []
+    },
+    "AV1/Características/Abstração de Dados.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/características/abstração-de-dados.html",
+      "dependencies": []
+    },
+    "AV1/Características/Características da Abordagem de Banco de Dados.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 4261,
+      "exportedPath": "av1/características/características-da-abordagem-de-banco-de-dados.html",
+      "dependencies": []
+    },
+    "AV1/Características/Compartilhamento de Dados.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/características/compartilhamento-de-dados.html",
+      "dependencies": []
+    },
+    "AV1/Características/Isolamento entre Programas e Dados.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/características/isolamento-entre-programas-e-dados.html",
+      "dependencies": []
+    },
+    "AV1/Características/Natureza de Autodescrição.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/características/natureza-de-autodescrição.html",
+      "dependencies": []
+    },
+    "AV1/Características/Processamento de Transação Multiusuário.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/características/processamento-de-transação-multiusuário.html",
+      "dependencies": []
+    },
+    "AV1/Características/Suporte para Múltiplas Visões.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/características/suporte-para-múltiplas-visões.html",
+      "dependencies": []
+    },
+    "AV1/Classificação/Classificação dos SGBDs.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 23,
+      "exportedPath": "av1/classificação/classificação-dos-sgbds.html",
+      "dependencies": []
+    },
+    "AV1/Definições/Banco de Dados.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/definições/banco-de-dados.html",
+      "dependencies": []
+    },
+    "AV1/Definições/Definições Básicas.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 2415,
+      "exportedPath": "av1/definições/definições-básicas.html",
+      "dependencies": []
+    },
+    "AV1/Definições/Sistema de Gerenciamento de Banco de Dados (SGDB).md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/definições/sistema-de-gerenciamento-de-banco-de-dados-(sgdb).html",
+      "dependencies": []
+    },
+    "AV1/Linguagens/Interfaces/DBA.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/linguagens/interfaces/dba.html",
+      "dependencies": []
+    },
+    "AV1/Linguagens/Interfaces/Formulário.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/linguagens/interfaces/formulário.html",
+      "dependencies": []
+    },
+    "AV1/Linguagens/Interfaces/GUI.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/linguagens/interfaces/gui.html",
+      "dependencies": []
+    },
+    "AV1/Linguagens/Interfaces/Interfaces do SGBD.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 170,
+      "exportedPath": "av1/linguagens/interfaces/interfaces-do-sgbd.html",
+      "dependencies": []
+    },
+    "AV1/Linguagens/Interfaces/Linguagem Natural.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/linguagens/interfaces/linguagem-natural.html",
+      "dependencies": []
+    },
+    "AV1/Linguagens/Interfaces/Menu.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/linguagens/interfaces/menu.html",
+      "dependencies": []
+    },
+    "AV1/Linguagens/Interfaces/Mobile.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/linguagens/interfaces/mobile.html",
+      "dependencies": []
+    },
+    "AV1/Linguagens/Interfaces/Pesquisa baseada em Palavra-Chave.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/linguagens/interfaces/pesquisa-baseada-em-palavra-chave.html",
+      "dependencies": []
+    },
+    "AV1/Linguagens/Interfaces/Usuários Paramétricos.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/linguagens/interfaces/usuários-paramétricos.html",
+      "dependencies": []
+    },
+    "AV1/Linguagens/Interfaces/Voz.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/linguagens/interfaces/voz.html",
+      "dependencies": []
+    },
+    "AV1/Linguagens/Linguagens/DDL.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/linguagens/linguagens/ddl.html",
+      "dependencies": []
+    },
+    "AV1/Linguagens/Linguagens/DML.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/linguagens/linguagens/dml.html",
+      "dependencies": []
+    },
+    "AV1/Linguagens/Linguagens/Linguagens do SGBD.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 54,
+      "exportedPath": "av1/linguagens/linguagens/linguagens-do-sgbd.html",
+      "dependencies": []
+    },
+    "AV1/Linguagens/Linguagens/SDL.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/linguagens/linguagens/sdl.html",
+      "dependencies": []
+    },
+    "AV1/Linguagens/Linguagens/VDL.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/linguagens/linguagens/vdl.html",
+      "dependencies": []
+    },
+    "AV1/Linguagens/Linguagens e Interfaces.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 4937,
+      "exportedPath": "av1/linguagens/linguagens-e-interfaces.html",
+      "dependencies": []
+    },
+    "AV1/Modelo de dados/Categorias de Modelos/Alto Nível.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/modelo-de-dados/categorias-de-modelos/alto-nível.html",
+      "dependencies": []
+    },
+    "AV1/Modelo de dados/Categorias de Modelos/Autodescritivos.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/modelo-de-dados/categorias-de-modelos/autodescritivos.html",
+      "dependencies": []
+    },
+    "AV1/Modelo de dados/Categorias de Modelos/Baixo Nível.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/modelo-de-dados/categorias-de-modelos/baixo-nível.html",
+      "dependencies": []
+    },
+    "AV1/Modelo de dados/Categorias de Modelos/Baseados em Registro.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/modelo-de-dados/categorias-de-modelos/baseados-em-registro.html",
+      "dependencies": []
+    },
+    "AV1/Modelo de dados/Categorias de Modelos/Categorias de Modelos de Dados.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 183,
+      "exportedPath": "av1/modelo-de-dados/categorias-de-modelos/categorias-de-modelos-de-dados.html",
+      "dependencies": []
+    },
+    "AV1/Modelo de dados/Categorias de Modelos/Dados de Objeto.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/modelo-de-dados/categorias-de-modelos/dados-de-objeto.html",
+      "dependencies": []
+    },
+    "AV1/Modelo de dados/Categorias de Modelos/Hierárquicos.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/modelo-de-dados/categorias-de-modelos/hierárquicos.html",
+      "dependencies": []
+    },
+    "AV1/Modelo de dados/Categorias de Modelos/Rede.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/modelo-de-dados/categorias-de-modelos/rede.html",
+      "dependencies": []
+    },
+    "AV1/Modelo de dados/Categorias de Modelos/Relacionais.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/modelo-de-dados/categorias-de-modelos/relacionais.html",
+      "dependencies": []
+    },
+    "AV1/Modelo de dados/Categorias de Modelos/Representativos.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/modelo-de-dados/categorias-de-modelos/representativos.html",
+      "dependencies": []
+    },
+    "AV1/Modelo de dados/Esquemas/Esquemas, Instâncias e Estados.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/modelo-de-dados/esquemas/esquemas,-instâncias-e-estados.html",
+      "dependencies": []
+    },
+    "AV1/Modelo de dados/Modelos de dados, Esquemas e Instâncias.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 5682,
+      "exportedPath": "av1/modelo-de-dados/modelos-de-dados,-esquemas-e-instâncias.html",
+      "dependencies": []
+    },
+    "AV1/Não Usar SGBD/Quando Não Usar um SGBD.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 843,
+      "exportedPath": "av1/não-usar-sgbd/quando-não-usar-um-sgbd.html",
+      "dependencies": []
+    },
+    "AV1/Vantagens SGBD/Armazenamento Persistente.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/vantagens-sgbd/armazenamento-persistente.html",
+      "dependencies": []
+    },
+    "AV1/Vantagens SGBD/Backup e Recuperação.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/vantagens-sgbd/backup-e-recuperação.html",
+      "dependencies": []
+    },
+    "AV1/Vantagens SGBD/Controle de Redundância.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/vantagens-sgbd/controle-de-redundância.html",
+      "dependencies": []
+    },
+    "AV1/Vantagens SGBD/Estruturas de Armazenamento e Processamento Eficiente de Consulta.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/vantagens-sgbd/estruturas-de-armazenamento-e-processamento-eficiente-de-consulta.html",
+      "dependencies": []
+    },
+    "AV1/Vantagens SGBD/Implicações Adicionais.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/vantagens-sgbd/implicações-adicionais.html",
+      "dependencies": []
+    },
+    "AV1/Vantagens SGBD/Imposição de Restrições de Integridade.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/vantagens-sgbd/imposição-de-restrições-de-integridade.html",
+      "dependencies": []
+    },
+    "AV1/Vantagens SGBD/Múltiplas Interfaces de Usuário.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/vantagens-sgbd/múltiplas-interfaces-de-usuário.html",
+      "dependencies": []
+    },
+    "AV1/Vantagens SGBD/Permissão de Dedução e Ações usando Regras e Gatilhos.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/vantagens-sgbd/permissão-de-dedução-e-ações-usando-regras-e-gatilhos.html",
+      "dependencies": []
+    },
+    "AV1/Vantagens SGBD/Representação de Relacionamentos Complexos entre os Dados.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/vantagens-sgbd/representação-de-relacionamentos-complexos-entre-os-dados.html",
+      "dependencies": []
+    },
+    "AV1/Vantagens SGBD/Restrição de Acesso Não Autorizado.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 0,
+      "exportedPath": "av1/vantagens-sgbd/restrição-de-acesso-não-autorizado.html",
+      "dependencies": []
+    },
+    "AV1/Vantagens SGBD/Vantagens da Abordagem de SGBD.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 5998,
+      "exportedPath": "av1/vantagens-sgbd/vantagens-da-abordagem-de-sgbd.html",
+      "dependencies": []
+    },
+    "AV1/AV1.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 484,
+      "exportedPath": "av1/av1.html",
+      "dependencies": []
+    },
+    "AV2/AV2.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 23,
+      "exportedPath": "av2/av2.html",
+      "dependencies": []
+    },
+    "Assuntos.md": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 43,
+      "exportedPath": "assuntos.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 50394,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 10509,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 137466,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 41466,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 279,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 2830,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1742950537665,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}

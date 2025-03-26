@@ -6,10 +6,52 @@
       {
         "id": "37c1956a6b33ece5",
         "type": "tabs",
-        "dimension": 62.95045045045045,
+        "dimension": 72.31450719822813,
         "children": [
           {
             "id": "4db9b4d02d1d2ccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AV1/AV1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AV1"
+            }
+          },
+          {
+            "id": "57a15571389f0307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AV1/Ambiente/Ambiente do Sistema de Banco de Dados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ambiente do Sistema de Banco de Dados"
+            }
+          },
+          {
+            "id": "287be13c96f56288",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AV1/Arquiteturas Centralizadas/Arquiteturas Centralizadas e Cliente Servidor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arquiteturas Centralizadas e Cliente Servidor"
+            }
+          },
+          {
+            "id": "a2fd8af8d3621e13",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,12 +64,13 @@
               "title": "Classificação dos SGBDs"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4db7126745b3710a",
         "type": "split",
-        "dimension": 37.049549549549546,
+        "dimension": 27.685492801771872,
         "children": [
           {
             "id": "18607260d01a01b1",
@@ -212,44 +255,44 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4db9b4d02d1d2ccc",
+  "active": "57a15571389f0307",
   "lastOpenFiles": [
-    "AV1/AV1.md",
-    "AV1/Arquiteturas Centralizadas/Arquiteturas Centralizadas e Cliente Servidor.md",
-    "AV1/Ambiente/Ambiente do Sistema de Banco de Dados.md",
-    "AV1/Ambiente/Utilitários do Sistema.md",
-    "AV1/Ambiente/Ferramentas, Ambientes de Aplicação e Facilidades de Comunicações.md",
-    "AV1/Ambiente/Módulos Componentes do SGBD.md",
-    "AV1/Linguagens/Linguagens e Interfaces.md",
     "Assuntos.md",
-    "AV1/Linguagens/Interfaces/DBA.md",
-    "AV1/Linguagens/Interfaces/Interfaces do SGBD.md",
-    "AV1/Linguagens/Interfaces/Usuários Paramétricos.md",
-    "AV1/Linguagens/Interfaces/Voz.md",
-    "AV1/Linguagens/Interfaces/Pesquisa baseada em Palavra-Chave.md",
-    "AV1/Linguagens/Interfaces/Linguagem Natural.md",
-    "AV1/Linguagens/Interfaces/GUI.md",
-    "AV1/Linguagens/Interfaces/Formulário.md",
-    "AV1/Linguagens/Interfaces/Mobile.md",
-    "AV1/Linguagens/Interfaces/Menu.md",
-    "AV1/Linguagens/Linguagens/DDL.md",
-    "AV1/Linguagens/Linguagens/Linguagens do SGBD.md",
-    "AV1/Linguagens/Linguagens/DML.md",
-    "AV1/Linguagens/Linguagens/VDL.md",
-    "AV1/Linguagens/Linguagens/SDL.md",
+    "AV2/AV2.md",
+    "AV1/Vantagens SGBD/Vantagens da Abordagem de SGBD.md",
+    "AV1/Vantagens SGBD/Restrição de Acesso Não Autorizado.md",
+    "AV1/Vantagens SGBD/Representação de Relacionamentos Complexos entre os Dados.md",
+    "AV1/Vantagens SGBD/Permissão de Dedução e Ações usando Regras e Gatilhos.md",
+    "AV1/Vantagens SGBD/Múltiplas Interfaces de Usuário.md",
+    "AV1/Vantagens SGBD/Imposição de Restrições de Integridade.md",
+    "AV1/Vantagens SGBD/Implicações Adicionais.md",
+    "AV1/Vantagens SGBD/Estruturas de Armazenamento e Processamento Eficiente de Consulta.md",
+    "AV1/Vantagens SGBD/Controle de Redundância.md",
+    "AV1/Vantagens SGBD/Backup e Recuperação.md",
+    "AV1/Não Usar SGBD/Quando Não Usar um SGBD.md",
+    "AV1/Modelo de dados/Modelos de dados, Esquemas e Instâncias.md",
+    "AV1/Modelo de dados/Esquemas/Esquemas, Instâncias e Estados.md",
+    "AV1/Modelo de dados/Categorias de Modelos/Representativos.md",
+    "AV1/Modelo de dados/Categorias de Modelos/Relacionais.md",
+    "AV1/Modelo de dados/Categorias de Modelos/Rede.md",
+    "AV1/Modelo de dados/Categorias de Modelos/Hierárquicos.md",
+    "AV1/Modelo de dados/Categorias de Modelos/Dados de Objeto.md",
+    "AV1/Modelo de dados/Categorias de Modelos/Categorias de Modelos de Dados.md",
+    "AV1/Modelo de dados/Categorias de Modelos/Baseados em Registro.md",
+    "AV1/Modelo de dados/Categorias de Modelos/Baixo Nível.md",
+    "AV1/Modelo de dados/Categorias de Modelos/Autodescritivos.md",
+    "AV1/Modelo de dados/Categorias de Modelos/Alto Nível.md",
+    "AV1/Linguagens/Linguagens e Interfaces.md",
+    "AV1/Ambiente/Utilitários",
+    "AV1/Ambiente/Módulos",
     "AV1/Linguagens/Interfaces",
     "AV1/Linguagens/Linguagens",
-    "AV1/Arquitetura de Três Esquemas/Arquitetura de Três Esquemas e Independência de Dados.md",
-    "AV1/Arquitetura de Três Esquemas/Independência/Independência de Dados.md",
-    "AV1/Arquitetura de Três Esquemas/Independência/Independência Física.md",
     "AV1/Arquitetura de Três Esquemas/Independência",
     "AV1/Arquitetura de Três Esquemas/Três Esquemas",
     "AV1/Modelo de dados/Esquemas",
     "AV1/Modelo de dados/Categorias de Modelos",
     "AV1/Atores/Atores",
     "AV1/Atores/Bastidores",
-    "Sem título.canvas",
-    "AV1/Classificação",
-    "AV1/Arquiteturas Centralizadas"
+    "Sem título.canvas"
   ]
 }
