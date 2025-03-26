@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37c1956a6b33ece5",
+        "id": "d0839131afbe4c02",
         "type": "tabs",
         "children": [
           {
-            "id": "4db9b4d02d1d2ccc",
+            "id": "273ce6f117bb383c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -146,6 +146,16 @@
               "icon": "lucide-list",
               "title": "Sumário de Classificação dos SGBDs"
             }
+          },
+          {
+            "id": "f54e58da8849d729",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 3
@@ -166,13 +176,25 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4db9b4d02d1d2ccc",
+  "active": "273ce6f117bb383c",
   "lastOpenFiles": [
-    "AV2/AV2.md",
     "AV1/Vantagens SGBD/Vantagens da Abordagem de SGBD.md",
     "AV1/Não Usar SGBD/Quando Não Usar um SGBD.md",
-    "AV1/Classificação/Custo.md",
+    "AV1/Modelo de dados/Modelos de dados, Esquemas e Instâncias.md",
+    "AV1/Linguagens/Linguagens e Interfaces.md",
+    "AV1/Definições/Definições Básicas.md",
     "AV1/Classificação/Classificação dos SGBDs.md",
+    "AV1/Características/Características da Abordagem de Banco de Dados.md",
+    "AV1/Atores/Atores em Cena e Bastidores.md",
+    "AV1/Arquiteturas Centralizadas/Arquiteturas Centralizadas e Cliente Servidor.md",
+    "AV1/Ambiente/Ambiente do Sistema de Banco de Dados.md",
+    "AV1/AV1.md",
+    "Sem título.md",
+    "AV1/Linguagens/Linguagens/Linguagens do SGBD.md",
+    "AV1/Arquitetura de Três Esquemas/Arquitetura de Três Esquemas e Independência de Dados.md",
+    "AV1/Vantagens SGBD/Estruturas de Armazenamento e Processamento Eficiente de Consulta.md",
+    "AV2/AV2.md",
+    "AV1/Classificação/Custo.md",
     "AV1/Classificação/Usuários/Número de Usuários.md",
     "AV1/Classificação/Usuários/Multiusuário.md",
     "AV1/Classificação/Usuários/Monousuário.md",
@@ -182,18 +204,6 @@
     "AV1/Classificação/Modelo/Modelo de Dados.md",
     "AV1/Classificação/Modelo/Legados.md",
     "AV1/Classificação/Modelo/Grafo.md",
-    "AV1/Classificação/Modelo/Documento.md",
-    "AV1/Classificação/Modelo/Coluna.md",
-    "AV1/Classificação/Modelo/Chave-Valor.md",
-    "AV1/Classificação/Locais/Número de Locais.md",
-    "AV1/Classificação/Locais/Homogêneo.md",
-    "AV1/Classificação/Locais/Heterogêneo.md",
-    "AV1/Classificação/Locais/Distribuído.md",
-    "AV1/Classificação/Locais/Centralizado.md",
-    "AV1/Características/Características da Abordagem de Banco de Dados.md",
-    "AV1/Atores/Bastidores/Bastidores.md",
-    "AV1/Atores/Atores/Atores em Cena.md",
-    "AV1/Arquiteturas Centralizadas/Arquiteturas Centralizadas e Cliente Servidor.md",
     "AV1/Classificação/Usuários",
     "AV1/Classificação/Locais",
     "AV1/Classificação/Modelo",

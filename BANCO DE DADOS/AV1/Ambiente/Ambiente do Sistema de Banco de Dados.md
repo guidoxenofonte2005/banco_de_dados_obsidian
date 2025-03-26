@@ -25,8 +25,8 @@ node_size: "5"
 - Têm os seguintes tipos de funções:
 #### Carga
 - Um utilitário de carga é _usado para carregar os arquivos de dados existentes no banco_ de dados
-- Normalmente, o formato atual do arquivo de dado e a estrutura do arquivo desejado são especificados pelo utilitário, que reformata automaticamente os dados e os armazenas no banco de dados
-- Alguns fornecedores de SGBDs fornecem **ferramentas de conversão** que geram os programas de carga apropriados, tendo como base descrições de armazenamento de banco de dados de origem e destino
+- Normalmente, *o formato atual do arquivo de dado e a estrutura do arquivo desejado são especificados pelo utilitário*, que reformata automaticamente os dados e os armazenas no banco de dados
+- *Alguns fornecedores de SGBDs fornecem **ferramentas de conversão*** que geram os programas de carga apropriados, *tendo como base descrições de armazenamento de banco de dados de origem e destino*
 #### Backup
 - Um utilitário de backup _cria uma cópia de segurança do banco de dados_, normalmente copiando-o inteiro para o meio de armazenamento desejado
 - Os **backups incrementais** também costumam ser utilizados e _registram apenas as mudanças ocorridas após o backup anterior_
@@ -37,12 +37,12 @@ node_size: "5"
 - Responsável por _monitorar o uso do banco de dados_ e _oferecer estatísticas ao DBA_
 - O DBA usa tais estatísticas para decidir se deve ou não reorganizar arquivos ou se deve incluir ou remover índices para melhorar o desempenho
 ## [[Ferramentas, Ambientes de Aplicação e Facilidades de Comunicações]]
-- Ferramentas *CASE* são usadas na fase de projeto dos sistemas de banco de dados
-	- Servem para automatizar diversas etapas do ciclo de vida do desenvolvimento de software
-- Um **sistema de dicionário de dados expandido** é responsável por, além de armazenar informações de catálogo sobre esquemas e restrições, armazenar decisões do projeto, padrões de uso, descrições da aplicação e informações do usuário
+- **Ferramentas CASE** são *usadas na fase de projeto dos sistemas* de banco de dados
+	- Servem para *automatizar diversas etapas do ciclo de vida do desenvolvimento de software*
+- Um **sistema de dicionário de dados expandido** é *responsável por, além de armazenar informações de catálogo sobre esquemas e restrições, armazenar decisões do projeto, padrões de uso, descrições da aplicação e informações do usuário*
 	- Também pode ser chamado de *repositório de informação*
-	- Essa informação pode ser acessada diretamente pelos usuários ou pelo DBA
-	- É semelhante ao catálogo do SGBD, mas inclui uma variedade maior de informações e é acessado principalmente pelos usuários
-- **Ambientes de Desenvolvimento de Aplicação** oferecem um ambiente para desenvolver aplicações de banco de dados, incluindo estruturas que ajudam em muitas facetas dos sistemas, como projeto de banco de dados, desenvolvimento de GUI, consulta e atualização, etc.
-- O SGBD também precisa realizar a interface com o **software de comunicações**, responsável por permitir que os usuários em locais remotos do sistema de banco de dados acessem-no por meio de terminais de computador, estações de trabalho ou computadores pessoais
+	- Essa informação *pode ser acessada diretamente pelos usuários ou pelo DBA*
+	- É *semelhante ao catálogo do SGBD, mas inclui uma variedade maior de informações e é acessado principalmente pelos usuários*
+- **Ambientes de Desenvolvimento de Aplicação** *oferecem um ambiente para desenvolver aplicações de banco de dados, incluindo estruturas que ajudam em muitas facetas dos sistemas*, como projeto de banco de dados, desenvolvimento de GUI, consulta e atualização, etc.
+- O SGBD também precisa realizar a interface com o **software de comunicações**, responsável por *permitir que os usuários em locais remotos do sistema de banco de dados acessem-no por meio de terminais de computador*, estações de trabalho ou computadores pessoais
 - Muitos sistemas de banco de dados do mercado possuem pacotes de comunicação que trabalham com o SGBD. O nome dado ao sistema integrado é **DB/DC**
